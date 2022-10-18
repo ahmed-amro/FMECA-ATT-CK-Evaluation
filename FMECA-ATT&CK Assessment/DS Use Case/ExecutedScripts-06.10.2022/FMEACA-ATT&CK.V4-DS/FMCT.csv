@@ -1,0 +1,95 @@
+Enterprise;Account Access Removal;0;0;0.566666667;0;1;0;0;0
+Enterprise;Application Exhaustion Flood;1;0.7;0;1;0;0.533333333;0.5;0
+Enterprise;Application or System Exploitation;1;0.7;0.566666667;1;1;0;0;0
+Mobile;Call Control;0;0;0;0;0;0;0;0
+Mobile;Carrier Billing Fraud;0;0;0;0;0;0;0;0
+Mobile;Clipboard Modification;0;0;0;0;0;0;0;0
+Mobile;collection;0;0;0;0;1;0;0;0
+Enterprise;collection;0;0;0;0;1;0;0;0
+ICS;collection-ics;0;0;0;0;1;0;0;0
+Mobile;command-and-control;1;0.7;0;1;1;0;0;0
+Enterprise;command-and-control;1;0.7;0;1;1;0;0;0
+ICS;command-and-control-ics;1;0.7;0;1;1;0;0;0
+Mobile;credential-access;0;0;0.566666667;0;1;0;0.5;0
+Enterprise;credential-access;0;0;0.566666667;0;1;0;0.5;0
+ICS;Damage to Property;1;0.7;0;1;0;0.533333333;0.5;0
+Enterprise;Data Destruction;1;0.7;0.566666667;1;1;0;0.5;0
+Enterprise;Data Encrypted for Impact;1;0;0.566666667;1;1;0;0.5;0
+Mobile;Data Encrypted for Impact;1;0;0.566666667;1;1;0;0.5;0
+Enterprise;Data Manipulation;1;0.7;0.566666667;1;1;0;0.5;0
+Enterprise;Defacement;0;0;0;0;0;0;0;0
+Mobile;defense-evasion;0;0;0;0;0;0;0;0
+Enterprise;defense-evasion;0;0;0;0;0;0;0;0
+Mobile;Delete Device Data;1;0;0.566666667;0;0;0;0;0
+ICS;Denial of Control;1;0.7;0.566666667;1;0;0;0.5;0
+ICS;Denial of View;1;0;0.566666667;0;0;0;0;0
+Mobile;Device Lockout;1;0.7;0.566666667;1;0;0;0;0
+Enterprise;Direct Network Flood;1;0.7;0.566666667;1;0;0;0.5;0
+Mobile;discovery;0;0;0.566666667;0;1;0;0;0
+Enterprise;discovery;0;0;0.566666667;0;1;0;0;0
+ICS;discovery-ics;0;0;0.566666667;0;1;0;0;0
+Enterprise;Disk Content Wipe;1;0;0.566666667;1;0;0;0.5;0
+Enterprise;Disk Structure Wipe;1;0;0.566666667;1;0;0;0.5;0
+Enterprise;Disk Wipe;1;0;0.566666667;1;0;0;0.5;0
+Mobile;Downgrade to Insecure Protocols;0;0;0;1;0;0;0;0
+Mobile;Eavesdrop on Insecure Network Communication;0;0;0.566666667;0;0;0;0;0
+Enterprise;Endpoint Denial of Service;1;0.7;0.566666667;1;0;0;0;0
+ICS;evasion-ics;1;0;0;1;0;0;0;0
+Mobile;execution;0;0;0;0;0;0;0;0
+Enterprise;execution;0;0;0;0;0;0;0;0
+ICS;execution-ics;0;0;0;0;0;0;0;0
+Mobile;exfiltration;0;0;0.566666667;0;1;0;0.5;0
+Enterprise;exfiltration;0;0;0.566666667;0;1;0;0.5;0
+Mobile;Exploit SS7 to Redirect Phone Calls/SMS;0;0;0;0;0;0;0;0
+Mobile;Exploit SS7 to Track Device Location;0;0;0;0;0;0;0;0
+Enterprise;External Defacement;0;0;0;0;0;0;0;0
+Enterprise;Firmware Corruption;1;0.7;0.566666667;1;1;0;0.5;0
+Mobile;Generate Fraudulent Advertising Revenue;0;0;0;0;0;0;0;0
+ICS;impair-process-control;1;0.7;0;1;0;0;0.5;0
+Enterprise;Inhibit System Recovery;1;0.7;0;1;0;0;0;0
+ICS;inhibit-response-function;1;0.7;0;1;0;0;0.5;0
+Mobile;initial-access;1;0;0.566666667;1;1;0;0;0
+Enterprise;initial-access;1;0;0.566666667;1;1;0;0;0
+ICS;initial-access-ics;1;0;0.566666667;1;1;0;0;0
+Mobile;Input Injection;1;0.7;0;1;0;0;0;0
+Enterprise;Internal Defacement;0;0;0;0;0;0;0;0
+Mobile;Jamming or Denial of Service;1;0.7;0;1;0;0;0.5;0
+Mobile;lateral-movement;0;0;0;0;0;0;0;0
+Enterprise;lateral-movement;0;0;0;0;0;0;0;0
+ICS;lateral-movement-ics;0;0;0;0;0;0;0;0
+ICS;Loss of Availability;1;0.7;0;1;1;0;0.5;0
+ICS;Loss of Control;1;0.7;0;1;0;0;0.5;0
+ICS;Loss of Productivity and Revenue;0;0;0;1;0;0;0.5;0
+ICS;Loss of Safety;0;0.7;0;1;0;0;0.5;0
+ICS;Loss of View;1;0.7;0.566666667;1;0;0;0;0
+Mobile;Manipulate App Store Rankings or Ratings;0;0;0;0;0;0;0;0
+Mobile;Manipulate Device Communication;0;0;0;0;0;0;0;0
+ICS;Manipulation of Control;1;0.7;0;1;1;0;0.5;0
+ICS;Manipulation of View;1;0;0.566666667;1;0;0;0.5;0
+Mobile;Modify System Partition;0;0;0;0;0;0;0;0
+Enterprise;Network Denial of Service;1;0.7;0.566666667;1;0;0;0.5;0
+Mobile;Network Information Discovery;0;0;0.566666667;0;1;0;0;0
+Mobile;Obtain Device Cloud Backups;0;0;0;0;0;0;0;0
+Enterprise;OS Exhaustion Flood;1;0.7;0;1;1;0;0.5;0
+Mobile;persistence;0;0;0;0;0;0;0;0
+Enterprise;persistence;0;0;0;0;1;0;0;0
+ICS;persistence-ics;0;0;0;0;1;0;0;0
+Mobile;privilege-escalation;0;0;0;0;1;0;0;0
+Enterprise;privilege-escalation;0;0;0;0;1;0;0;0
+ICS;privilege-escalation-ics;0;0;0;0;1;0;0;0
+Enterprise;Reflection Amplification;1;0.7;0;1;1;0;0;0
+Mobile;Remotely Track Device Without Authorization;0;0;0.566666667;0;0;0;0;0
+Mobile;Remotely Wipe Data Without Authorization;0;0;0;1;0;0;0.5;0
+Enterprise;Resource Hijacking;1;0.7;0.566666667;1;1;0;0.5;0
+Mobile;Rogue Cellular Base Station;0;0;0;0;0;0;0;0
+Mobile;Rogue Wi-Fi Access Points;0;0;0;0;0;0;0;0
+Enterprise;Runtime Data Manipulation;1;0.7;0;1;1;0;0;0
+Enterprise;Service Exhaustion Flood;1;0.7;0;1;0;0;0.5;0
+Enterprise;Service Stop;1;0.7;0;1;0;0;0.5;0
+Mobile;SIM Card Swap;0;0;0;0;0;0;0;0
+Mobile;SMS Control;0;0;0;0;0;0;0;0
+Enterprise;Stored Data Manipulation;1;0;0.566666667;1;0;0;0;0
+Enterprise;System Shutdown/Reboot;1;0;0;1;0;0;0;0
+ICS;Theft of Operational Information;0;0;0.566666667;0;1;0;0.5;0
+Enterprise;Transmitted Data Manipulation;1;0.7;0.566666667;1;1;0;0;0
+ta Manipulation;1;0.7;0.566666667;1;1;0;0;0

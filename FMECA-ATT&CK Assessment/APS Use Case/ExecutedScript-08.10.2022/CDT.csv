@@ -1,0 +1,26 @@
+OT/IT;DP-CC1;Control Server;Windows;Unknown;Unknown;;;;;1
+OT/IT;DP-CC2;Control Server;Windows;Unknown;Unknown;;;;;2
+OT/IT;DP-CC3;Control Server;Windows;Unknown;Unknown;;;;;3
+OT;GPS2;Human-Machine Interface,Sensor;Unknown;Any;GPS,Radio;;;;;4
+OT/Mobile;GPS2_NS;Human-Machine Interface,Sensor;Unknonw;Unknown;Unknown;;;;;5
+OT/IT;MA-OS1;Control Server;Windows;Unknown;Unknown;;;;;6
+OT/IT;MA-OS2;Control Server;Windows;Unknown;Unknown;;;;;7
+OT/IT;MA-OS3;Control Server;Windows;Unknown;Unknown;;;;;8
+OT/IT;MA-SW-A1;Input/Output Server;Network;Unknown;Unknown;;;;;9
+OT/IT;MA-SW-A2;Input/Output Server;Network;Unknown;Unknown;;;;;10
+OT/IT;MA-SW-B1;Input/Output Server;Network;Unknown;Unknown;;;;;11
+OT;MA-TC1;Input/Output Server;Unknown;Unknown;Unknown;;;;;12
+OT;MA-TC2;Input/Output Server;Unknown;Unknown;Unknown;;;;;13
+OT;MA-TC3;Input/Output Server;Unknown;Unknown;Unknown;;;;;14
+OT;MA-TC4;Input/Output Server;Unknown;Unknown;Unknown;;;;;15
+OT/IT;TCS-CC1;Control Server;Windows;Unknown;Unknown;;;;;16
+OT/IT;TCS-CC3;Control Server;Windows;Unknown;Unknown;;;;;17
+OT/IT;TCS-CC2;Control Server;Windows;Unknown;Unknown;;;;;18
+IT;VidServ;Input/Output Server;Windows;Unknown;Cam,Mic;;;;;19
+IT;VRAG;Input/Output Server;Windows;Unknown;Unknown;;;;;20
+OT/IT/Mobile;Internet Router;Input/Output Server;Network;Any;Cell,Wi-Fi;;;;;21
+OT/IT/Mobile;4G modem;Input/Output Server;Network;Any;Cell,Wi-Fi;;;;;22
+IT/Mobile;C-Link 2;Input/Output Server;Network;Any;Radio;;;;;23
+IT/Mobile;C-Link 10-90;Input/Output Server;Network;Any;Radio;;;;;24
+IT;CCTV1;Sensor;Unknonw;Unknonw;Unknonw;;;;;25
+IT;CCTV2;Sensor ;Unknonw;Unknonw;Unknonw;;;;;26

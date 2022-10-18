@@ -1,0 +1,72 @@
+Mitigation/Component;Data Historian;SCADA;Engineer PC;Router/Firewall;Gateway/RTU;Switch A;Switch B;HMI;IED 1;IED 2;MU 1;MU 2
+Access Management;1;1;1;1;1;1;1;0;0;0;0;0
+Account Use Policies;1;1;1;1;1;1;1;0;0;0;0;0
+Active Directory Configuration;0;0;0;0;0;0;0;0;0;0;0;0
+Antivirus/Antimalware;1;1;1;0;0;0;0;0;0;0;0;0
+Application Developer Guidance;0;0;0;0;0;0;0;0;0;0;0;0
+Application Isolation and Sandboxing;0;0;0;0;0;0;0;0;0;0;0;0
+Application Vetting;1;1;1;1;1;1;1;1;1;1;1;1
+Attestation;0;0;0;0;0;0;0;0;0;0;0;0
+Audit;1;1;1;1;1;1;1;1;1;1;1;1
+Authorization Enforcement;1;1;1;1;1;1;1;0;0;0;0;0
+Behavior Prevention on Endpoint;1;1;1;0;0;0;0;0;0;0;0;0
+Boot Integrity;1;1;1;1;1;1;1;1;1;1;1;1
+Caution with Device Administrator Access;1;1;1;1;1;1;1;1;1;1;1;1
+Code Signing;1;1;1;1;1;1;1;1;1;1;1;1
+Communication Authenticity;1;1;1;1;1;1;1;1;1;1;1;1
+Credential Access Protection;0;0;0;0;0;0;0;0;0;0;0;0
+Data Backup;1;1;1;1;1;1;1;1;1;1;1;1
+Data Loss Prevention;0;0;0;0;0;0;0;0;0;0;0;0
+Deploy Compromised Device Detection Method;0;0;0;0;0;0;0;0;0;0;0;0
+Disable or Remove Feature or Program;0;0;0;0;0;0;0;0;0;0;0;0
+Do Not Mitigate;0;0;0;0;0;0;0;0;0;0;0;0
+Encrypt Network Traffic;0;0;0;0;0;0;0;0;0;0;0;0
+Encrypt Sensitive Information;0;0;0;0;0;0;0;0;0;0;0;0
+Enterprise Policy;0;0;0;0;0;0;0;0;0;0;0;0
+Environment Variable Permissions;0;0;0;0;0;0;0;0;0;0;0;0
+Execution Prevention;0;0;0;0;0;0;0;0;0;0;0;0
+Exploit Protection;0;0;0;0;0;0;0;0;0;0;0;0
+Filter Network Traffic;1;1;1;1;1;0;0;0;0;0;0;0
+Human User Authentication;1;1;1;1;1;1;1;0;0;0;0;0
+Interconnection Filtering;0;0;0;0;0;0;0;0;0;0;0;0
+Limit Access to Resource Over Network;1;1;1;1;1;1;1;1;1;1;1;1
+Limit Hardware Installation;1;1;1;1;1;1;1;1;1;1;1;1
+Limit Software Installation;1;1;1;0;0;0;0;0;0;0;0;0
+Lock Bootloader;1;1;1;1;1;1;1;1;1;1;1;1
+Mechanical Protection Layers;0;0;0;0;0;0;0;0;0;0;0;0
+Minimize Wireless Signal Propagation;0;0;0;0;0;0;0;0;0;0;0;0
+Mitigation Limited or Not Effective;0;0;0;0;0;0;0;0;0;0;0;0
+Multi-factor Authentication;0;0;0;0;0;0;0;0;0;0;0;0
+Network Allowlists;1;1;1;1;1;0;0;0;0;0;0;0
+Network Intrusion Prevention;0;0;0;0;0;0;0;0;0;0;0;0
+Network Segmentation;1;1;1;1;1;1;1;1;1;1;1;1
+Operating System Configuration;0;0;0;0;0;0;0;0;0;0;0;0
+Operational Information Confidentiality;0;0;0;0;0;0;0;0;0;0;0;0
+Out-of-Band Communications Channel;0;0;0;0;0;0;0;0;0;0;0;0
+Password Policies;1;1;1;1;1;1;1;1;1;1;1;1
+Pre-compromise;0;0;0;0;0;0;0;0;0;0;0;0
+Privileged Account Management;1;1;1;1;1;1;1;1;1;1;1;1
+Privileged Process Integrity;0;0;0;0;0;0;0;0;0;0;0;0
+Redundancy of Service;0;0;0;0;0;1;1;0;1;1;1;1
+Remote Data Storage;1;1;1;1;1;1;1;1;1;1;1;1
+Restrict File and Directory Permissions;0;0;0;0;0;0;0;0;0;0;0;0
+Restrict Library Loading;0;0;0;0;0;0;0;0;0;0;0;0
+Restrict Registry Permissions;0;0;0;0;0;0;0;0;0;0;0;0
+Restrict Web-Based Content;0;0;0;0;0;0;0;0;0;0;0;0
+Safety Instrumented Systems;0;0;0;0;0;0;0;0;0;0;0;0
+Security Updates;1;1;1;0;0;0;0;0;0;0;0;0
+Software Configuration;0;0;0;0;0;0;0;0;0;0;0;0
+Software Process and Device Authentication;0;0;0;0;0;0;0;0;0;0;0;0
+SSL/TLS Inspection;0;0;0;0;0;0;0;0;0;0;0;0
+Static Network Configuration;1;1;1;1;1;1;1;1;1;1;1;1
+Supply Chain Management;1;1;1;1;1;1;1;1;1;1;1;1
+System Partition Integrity;1;1;1;1;1;1;1;1;0;0;0;0
+Threat Intelligence Program;0;0;0;0;0;0;0;0;0;0;0;0
+Update Software;1;1;1;0;0;0;0;0;0;0;0;0
+Use Recent OS Version;0;0;0;0;0;0;0;0;0;0;0;0
+User Account Control;1;1;1;0;0;0;0;0;0;0;0;0
+User Account Management;1;1;1;1;1;1;1;0;0;0;0;0
+User Guidance;1;1;1;1;1;1;1;1;1;1;1;1
+User Training;1;1;1;1;1;1;1;1;1;1;1;1
+Vulnerability Scanning;0;0;0;0;0;0;0;0;0;0;0;0
+Watchdog Timers;0;0;0;0;0;0;0;0;0;0;0;0

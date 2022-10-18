@@ -1,0 +1,12 @@
+OT/IT;Data Historian;Data Historian;Windows;Unknown;Unknown;;;;;1
+OT/IT;SCADA;Control Server;Windows;Unknown;Unknown;;;;;2
+IT;Engineer PC;Engineering Workstation;Windows;Unknown;Unknown;;;;;3
+IT;Router/Firewall;Input/Output Server,Control Server;;Any;Cell;;;;;4
+IT;Gateway/RTU;;Network;Unknown;Unknown;;;;;5
+IT;Switch A;Input/Output Server;Network;Unknown;Unknown;;;;;6
+IT;Switch B;Input/Output Server;Network;Unknown;Unknown;;;;;7
+OT/IT;HMI;Human-Machine Interface;Windows;Unknown;Unknown;;;;;8
+OT/IT;IED 1;Field Controller/RTU/PLC/IED;;Unknown;Unknown;;;;;9
+OT/IT;IED 2;Field Controller/RTU/PLC/IED;;Unknown;Unknown;;;;;10
+OT/IT/Mobile;MU 1;;;Unknown;Unknown;;;;;11
+OT/IT/Mobile;MU 2;;;Unknown;Unknown;;;;;12

@@ -1,0 +1,1800 @@
+1;ICS;Activate Firmware Update Mode;Access Management;0.7
+2;ICS;Default Credentials;Access Management;0.7
+3;ICS;Detect Operating Mode;Access Management;0.7
+4;ICS;Device Restart/Shutdown;Access Management;0.7
+5;ICS;Execution through API;Access Management;0.7
+6;ICS;Modify Alarm Settings;Access Management;0.7
+7;ICS;Module Firmware;Access Management;0.7
+8;ICS;Point & Tag Identification;Access Management;0.7
+9;ICS;Program Download;Access Management;0.7
+10;ICS;Program Upload;Access Management;0.7
+11;ICS;System Firmware;Access Management;0.7
+12;ICS;Change Operating Mode;Access Management;0.7
+13;ICS;Valid Accounts;Access Management;0.7
+14;ICS;Remote Services;Access Management;0.7
+15;ICS;Valid Accounts;Account Use Policies;0.5
+16;ICS;External Remote Services;Account Use Policies;0.5
+17;ICS;Valid Accounts;Active Directory Configuration;0.4
+18;ICS;Engineering Workstation Compromise;Antivirus/Antimalware;0.5
+19;ICS;Transient Cyber Asset;Antivirus/Antimalware;0.5
+20;ICS;Transient Cyber Asset;Encrypt Sensitive Information;0.5
+21;ICS;Transient Cyber Asset;Network Segmentation;0.4
+22;ICS;Transient Cyber Asset;Update Software;0.5
+23;ICS;Transient Cyber Asset;Audit;0.5
+24;ICS;Spearphishing Attachment;Antivirus/Antimalware;0.5
+25;ICS;User Execution;Antivirus/Antimalware;0.5
+26;ICS;Valid Accounts;Application Developer Guidance;0.25
+27;ICS;Drive-by Compromise;Application Isolation and Sandboxing;0.5
+28;ICS;Exploit Public-Facing Application;Application Isolation and Sandboxing;0.5
+29;ICS;Exploitation for Evasion;Application Isolation and Sandboxing;0.5
+30;ICS;Exploitation of Remote Services;Application Isolation and Sandboxing;0.5
+31;ICS;Scripting;Application Isolation and Sandboxing;0.5
+32;ICS;Exploitation for Privilege Escalation;Application Isolation and Sandboxing;0.5
+33;ICS;Block Reporting Message;Audit;0.5
+34;ICS;Data from Information Repositories;Audit;0.5
+35;ICS;Engineering Workstation Compromise;Audit;0.5
+36;ICS;Hooking;Audit;0.5
+37;ICS;Modify Parameter;Audit;0.5
+38;ICS;Module Firmware;Audit;0.5
+39;ICS;Program Download;Audit;0.5
+40;ICS;Project File Infection;Audit;0.5
+41;ICS;Rootkit;Audit;0.5
+42;ICS;Supply Chain Compromise;Audit;0.5
+43;ICS;System Firmware;Audit;0.5
+44;ICS;Valid Accounts;Audit;0.5
+45;ICS;Modify Program;Audit;0.5
+46;ICS;Modify Controller Tasking;Audit;0.5
+47;ICS;Activate Firmware Update Mode;Authorization Enforcement;0.6
+48;ICS;Data Historian Compromise;Authorization Enforcement;0.6
+49;ICS;Detect Operating Mode;Authorization Enforcement;0.6
+50;ICS;Device Restart/Shutdown;Authorization Enforcement;0.6
+51;ICS;Engineering Workstation Compromise;Authorization Enforcement;0.6
+52;ICS;Execution through API;Authorization Enforcement;0.6
+53;ICS;Modify Alarm Settings;Authorization Enforcement;0.6
+54;ICS;Modify Parameter;Authorization Enforcement;0.6
+55;ICS;Point & Tag Identification;Authorization Enforcement;0.6
+56;ICS;Program Download;Authorization Enforcement;0.6
+57;ICS;Program Upload;Authorization Enforcement;0.6
+58;ICS;Change Operating Mode;Authorization Enforcement;0.6
+59;ICS;Remote Services;Authorization Enforcement;0.6
+60;ICS;Module Firmware;Boot Integrity;0.5
+61;ICS;System Firmware;Boot Integrity;0.5
+62;ICS;Block Reporting Message;Code Signing;0.5
+63;ICS;Masquerading;Code Signing;0.5
+64;ICS;Module Firmware;Code Signing;0.5
+65;ICS;Program Download;Code Signing;0.5
+66;ICS;Project File Infection;Code Signing;0.5
+67;ICS;Rootkit;Code Signing;0.5
+68;ICS;Supply Chain Compromise;Code Signing;0.5
+69;ICS;System Firmware;Code Signing;0.5
+70;ICS;User Execution;Code Signing;0.5
+71;ICS;Modify Program;Code Signing;0.5
+72;ICS;Modify Controller Tasking;Code Signing;0.5
+73;ICS;Activate Firmware Update Mode;Communication Authenticity;0.4
+74;ICS;Detect Operating Mode;Communication Authenticity;0.4
+75;ICS;Device Restart/Shutdown;Communication Authenticity;0.4
+76;ICS;Man in the Middle;Communication Authenticity;0.4
+77;ICS;Manipulation of Control;Communication Authenticity;0.4
+78;ICS;Manipulation of View;Communication Authenticity;0.4
+79;ICS;Module Firmware;Communication Authenticity;0.4
+80;ICS;Point & Tag Identification;Communication Authenticity;0.4
+81;ICS;Program Download;Communication Authenticity;0.4
+82;ICS;Program Upload;Communication Authenticity;0.4
+83;ICS;Rogue Master;Communication Authenticity;0.4
+84;ICS;Spoof Reporting Message;Communication Authenticity;0.4
+85;ICS;System Firmware;Communication Authenticity;0.4
+86;ICS;Unauthorized Command Message;Communication Authenticity;0.4
+87;ICS;Change Operating Mode;Communication Authenticity;0.4
+88;ICS;Wireless Compromise;Communication Authenticity;0.4
+89;ICS;Data Destruction;Data Backup;0.5
+90;ICS;Denial of Control;Data Backup;0.5
+91;ICS;Denial of View;Data Backup;0.5
+92;ICS;Loss of Availability;Data Backup;0.5
+93;ICS;Loss of Control;Data Backup;0.5
+94;ICS;Loss of Productivity and Revenue;Data Backup;0.5
+95;ICS;Loss of View;Data Backup;0.5
+96;ICS;Manipulation of Control;Data Backup;0.5
+97;ICS;Manipulation of View;Data Backup;0.5
+98;ICS;Theft of Operational Information;Data Loss Prevention;0.5
+99;ICS;Command-Line Interface;Disable or Remove Feature or Program;0.5
+100;ICS;Commonly Used Port;Disable or Remove Feature or Program;0.5
+101;ICS;Data Historian Compromise;Disable or Remove Feature or Program;0.5
+102;ICS;Device Restart/Shutdown;Disable or Remove Feature or Program;0.5
+103;ICS;Exploitation of Remote Services;Disable or Remove Feature or Program;0.5
+104;ICS;External Remote Services;Disable or Remove Feature or Program;0.5
+105;ICS;Man in the Middle;Disable or Remove Feature or Program;0.5
+106;ICS;Replication Through Removable Media;Disable or Remove Feature or Program;0.5
+107;ICS;Scripting;Disable or Remove Feature or Program;0.5
+108;ICS;Remote System Information Discovery;Disable or Remove Feature or Program;0.5
+109;ICS;Module Firmware;Encrypt Network Traffic;0.5
+110;ICS;Network Sniffing;Encrypt Network Traffic;0.5
+111;ICS;System Firmware;Encrypt Network Traffic;0.5
+112;ICS;Wireless Compromise;Encrypt Network Traffic;0.5
+113;ICS;Wireless Sniffing;Encrypt Network Traffic;0.5
+114;ICS;Data from Information Repositories;Encrypt Sensitive Information;0.5
+115;ICS;Engineering Workstation Compromise;Encrypt Sensitive Information;0.5
+116;ICS;Module Firmware;Encrypt Sensitive Information;0.5
+117;ICS;Project File Infection;Encrypt Sensitive Information;0.5
+118;ICS;System Firmware;Encrypt Sensitive Information;0.5
+119;ICS;Theft of Operational Information;Encrypt Sensitive Information;0.5
+120;ICS;Command-Line Interface;Execution Prevention;0.5
+121;ICS;Execution through API;Execution Prevention;0.5
+122;ICS;Masquerading;Execution Prevention;0.5
+123;ICS;Scripting;Execution Prevention;0.5
+124;ICS;User Execution;Execution Prevention;0.5
+125;ICS;Native API;Execution Prevention;0.5
+126;ICS;Drive-by Compromise;Exploit Protection;0.5
+127;ICS;Exploit Public-Facing Application;Exploit Protection;0.5
+128;ICS;Exploitation for Evasion;Exploit Protection;0.5
+129;ICS;Exploitation of Remote Services;Exploit Protection;0.5
+130;ICS;Exploitation for Privilege Escalation;Exploit Protection;0.5
+131;ICS;Activate Firmware Update Mode;Filter Network Traffic;0.6
+132;ICS;Brute Force I/O;Filter Network Traffic;0.6
+133;ICS;Connection Proxy;Filter Network Traffic;0.6
+134;ICS;Data Historian Compromise;Filter Network Traffic;0.6
+135;ICS;Detect Operating Mode;Filter Network Traffic;0.6
+136;ICS;Device Restart/Shutdown;Filter Network Traffic;0.6
+137;ICS;Engineering Workstation Compromise;Filter Network Traffic;0.6
+138;ICS;Man in the Middle;Filter Network Traffic;0.6
+139;ICS;Module Firmware;Filter Network Traffic;0.6
+140;ICS;Point & Tag Identification;Filter Network Traffic;0.6
+141;ICS;Program Download;Filter Network Traffic;0.6
+142;ICS;Program Upload;Filter Network Traffic;0.6
+143;ICS;Rogue Master;Filter Network Traffic;0.6
+144;ICS;Spoof Reporting Message;Filter Network Traffic;0.6
+145;ICS;System Firmware;Filter Network Traffic;0.6
+146;ICS;Unauthorized Command Message;Filter Network Traffic;0.6
+147;ICS;Valid Accounts;Filter Network Traffic;0.6
+148;ICS;Remote Services;Filter Network Traffic;0.6
+149;ICS;Activate Firmware Update Mode;Human User Authentication;0.5
+150;ICS;Commonly Used Port;Human User Authentication;0.5
+151;ICS;Data Historian Compromise;Human User Authentication;0.5
+152;ICS;Detect Operating Mode;Human User Authentication;0.5
+153;ICS;Device Restart/Shutdown;Human User Authentication;0.5
+154;ICS;Execution through API;Human User Authentication;0.5
+155;ICS;Modify Alarm Settings;Human User Authentication;0.5
+156;ICS;Module Firmware;Human User Authentication;0.5
+157;ICS;Point & Tag Identification;Human User Authentication;0.5
+158;ICS;Program Download;Human User Authentication;0.5
+159;ICS;Program Upload;Human User Authentication;0.5
+160;ICS;System Firmware;Human User Authentication;0.5
+161;ICS;Change Operating Mode;Human User Authentication;0.5
+162;ICS;Remote Services;Human User Authentication;0.5
+163;ICS;External Remote Services;Limit Access to Resource Over Network;0.5
+164;ICS;Engineering Workstation Compromise;Limit Hardware Installation;0.6
+165;ICS;Replication Through Removable Media;Limit Hardware Installation;0.6
+166;ICS;Damage to Property;Mechanical Protection Layers;0.5
+167;ICS;Loss of Safety;Mechanical Protection Layers;0.5
+168;ICS;Wireless Compromise;Minimize Wireless Signal Propagation;0.3
+169;ICS;Wireless Sniffing;Minimize Wireless Signal Propagation;0.3
+170;ICS;Graphical User Interface;Mitigation Limited or Not Effective;0.5
+171;ICS;I/O Image;Mitigation Limited or Not Effective;0.5
+172;ICS;Manipulate I/O Image;Mitigation Limited or Not Effective;0.5
+173;ICS;Monitor Process State;Mitigation Limited or Not Effective;0.5
+174;ICS;Network Connection Enumeration;Mitigation Limited or Not Effective;0.5
+175;ICS;Screen Capture;Mitigation Limited or Not Effective;0.5
+176;ICS;External Remote Services;Multi-factor Authentication;0.5
+177;ICS;Network Sniffing;Multi-factor Authentication;0.5
+178;ICS;Valid Accounts;Multi-factor Authentication;0.5
+179;ICS;Activate Firmware Update Mode;Network Allowlists;0.5
+180;ICS;Alarm Suppression;Network Allowlists;0.5
+181;ICS;Automated Collection;Network Allowlists;0.5
+182;ICS;Block Command Message;Network Allowlists;0.5
+183;ICS;Block Reporting Message;Network Allowlists;0.5
+184;ICS;Block Serial COM;Network Allowlists;0.5
+185;ICS;Brute Force I/O;Network Allowlists;0.5
+186;ICS;Connection Proxy;Network Allowlists;0.5
+187;ICS;Damage to Property;Network Allowlists;0.5
+188;ICS;Data Historian Compromise;Network Allowlists;0.5
+189;ICS;Detect Operating Mode;Network Allowlists;0.5
+190;ICS;Device Restart/Shutdown;Network Allowlists;0.5
+191;ICS;Engineering Workstation Compromise;Network Allowlists;0.5
+192;ICS;Modify Alarm Settings;Network Allowlists;0.5
+193;ICS;Module Firmware;Network Allowlists;0.5
+194;ICS;Point & Tag Identification;Network Allowlists;0.5
+195;ICS;Program Download;Network Allowlists;0.5
+196;ICS;Program Upload;Network Allowlists;0.5
+197;ICS;Rogue Master;Network Allowlists;0.5
+198;ICS;Spoof Reporting Message;Network Allowlists;0.5
+199;ICS;Standard Application Layer Protocol;Network Allowlists;0.5
+200;ICS;System Firmware;Network Allowlists;0.5
+201;ICS;Unauthorized Command Message;Network Allowlists;0.5
+202;ICS;Change Operating Mode;Network Allowlists;0.5
+203;ICS;Remote Services;Network Allowlists;0.5
+204;ICS;Commonly Used Port;Network Intrusion Prevention;0.4
+205;ICS;Connection Proxy;Network Intrusion Prevention;0.4
+206;ICS;Man in the Middle;Network Intrusion Prevention;0.4
+207;ICS;Lateral Tool Transfer;Network Intrusion Prevention;0.4
+208;ICS;Spearphishing Attachment;Network Intrusion Prevention;0.4
+209;ICS;Standard Application Layer Protocol;Network Intrusion Prevention;0.4
+210;ICS;User Execution;Network Intrusion Prevention;0.4
+211;ICS;Remote System Information Discovery;Network Intrusion Prevention;0.4
+212;ICS;Activate Firmware Update Mode;Network Segmentation;0.4
+213;ICS;Alarm Suppression;Network Segmentation;0.4
+214;ICS;Automated Collection;Network Segmentation;0.4
+215;ICS;Block Serial COM;Network Segmentation;0.4
+216;ICS;Brute Force I/O;Network Segmentation;0.4
+217;ICS;Commonly Used Port;Network Segmentation;0.4
+218;ICS;Data Historian Compromise;Network Segmentation;0.4
+219;ICS;Detect Operating Mode;Network Segmentation;0.4
+220;ICS;Device Restart/Shutdown;Network Segmentation;0.4
+221;ICS;Engineering Workstation Compromise;Network Segmentation;0.4
+222;ICS;Exploit Public-Facing Application;Network Segmentation;0.4
+223;ICS;Exploitation of Remote Services;Network Segmentation;0.4
+224;ICS;External Remote Services;Network Segmentation;0.4
+225;ICS;Internet Accessible Device;Network Segmentation;0.4
+226;ICS;Man in the Middle;Network Segmentation;0.4
+227;ICS;Modify Alarm Settings;Network Segmentation;0.4
+228;ICS;Module Firmware;Network Segmentation;0.4
+229;ICS;Network Sniffing;Network Segmentation;0.4
+230;ICS;Point & Tag Identification;Network Segmentation;0.4
+231;ICS;Program Download;Network Segmentation;0.4
+232;ICS;Program Upload;Network Segmentation;0.4
+233;ICS;Rogue Master;Network Segmentation;0.4
+234;ICS;Service Stop;Network Segmentation;0.4
+235;ICS;Spoof Reporting Message;Network Segmentation;0.4
+236;ICS;Standard Application Layer Protocol;Network Segmentation;0.4
+237;ICS;System Firmware;Network Segmentation;0.4
+238;ICS;Unauthorized Command Message;Network Segmentation;0.4
+239;ICS;Change Operating Mode;Network Segmentation;0.4
+240;ICS;Remote Services;Network Segmentation;0.4
+241;ICS;Remote System Information Discovery;Network Segmentation;0.4
+242;ICS;Replication Through Removable Media;Operating System Configuration;0.5
+243;ICS;Theft of Operational Information;Operational Information Confidentiality;0.5
+244;ICS;Alarm Suppression;Out-of-Band Communications Channel;0.5
+245;ICS;Block Command Message;Out-of-Band Communications Channel;0.5
+246;ICS;Block Reporting Message;Out-of-Band Communications Channel;0.5
+247;ICS;Block Serial COM;Out-of-Band Communications Channel;0.5
+248;ICS;Denial of Control;Out-of-Band Communications Channel;0.5
+249;ICS;Denial of View;Out-of-Band Communications Channel;0.5
+250;ICS;Loss of Availability;Out-of-Band Communications Channel;0.5
+251;ICS;Loss of Control;Out-of-Band Communications Channel;0.5
+252;ICS;Loss of View;Out-of-Band Communications Channel;0.5
+253;ICS;Man in the Middle;Out-of-Band Communications Channel;0.5
+254;ICS;Manipulation of Control;Out-of-Band Communications Channel;0.5
+255;ICS;Manipulation of View;Out-of-Band Communications Channel;0.5
+256;ICS;Default Credentials;Password Policies;0.5
+257;ICS;External Remote Services;Password Policies;0.5
+258;ICS;Valid Accounts;Password Policies;0.5
+259;ICS;Remote Services;Password Policies;0.5
+260;ICS;Data Destruction;Privileged Account Management;0.5
+261;ICS;Data from Information Repositories;Privileged Account Management;0.5
+262;ICS;Exploit Public-Facing Application;Privileged Account Management;0.5
+263;ICS;Exploitation of Remote Services;Privileged Account Management;0.5
+264;ICS;Network Sniffing;Privileged Account Management;0.5
+265;ICS;Valid Accounts;Privileged Account Management;0.5
+266;ICS;Denial of Control;Redundancy of Service;0.6
+267;ICS;Denial of View;Redundancy of Service;0.6
+268;ICS;Loss of Availability;Redundancy of Service;0.6
+269;ICS;Loss of Control;Redundancy of Service;0.6
+270;ICS;Loss of View;Redundancy of Service;0.6
+271;ICS;Data Destruction;Restrict File and Directory Permissions;0.5
+272;ICS;Data from Information Repositories;Restrict File and Directory Permissions;0.5
+273;ICS;Indicator Removal on Host;Restrict File and Directory Permissions;0.5
+274;ICS;Masquerading;Restrict File and Directory Permissions;0.5
+275;ICS;Project File Infection;Restrict File and Directory Permissions;0.5
+276;ICS;Service Stop;Restrict File and Directory Permissions;0.5
+277;ICS;Theft of Operational Information;Restrict File and Directory Permissions;0.5
+278;ICS;Hooking;Restrict Library Loading;0.5
+279;ICS;Service Stop;Restrict Registry Permissions;0.5
+280;ICS;Drive-by Compromise;Restrict Web-Based Content;0.65
+281;ICS;Spearphishing Attachment;Restrict Web-Based Content;0.65
+282;ICS;User Execution;Restrict Web-Based Content;0.65
+283;ICS;Connection Proxy;SSL/TLS Inspection;0.3
+284;ICS;Damage to Property;Safety Instrumented Systems;0.5
+285;ICS;Loss of Safety;Safety Instrumented Systems;0.5
+286;ICS;Data Historian Compromise;Software Configuration;0.45
+287;ICS;Activate Firmware Update Mode;Software Process and Device Authentication;0.5
+288;ICS;Brute Force I/O;Software Process and Device Authentication;0.5
+289;ICS;Data Historian Compromise;Software Process and Device Authentication;0.5
+290;ICS;Detect Operating Mode;Software Process and Device Authentication;0.5
+291;ICS;Device Restart/Shutdown;Software Process and Device Authentication;0.5
+292;ICS;Man in the Middle;Software Process and Device Authentication;0.5
+293;ICS;Modify Alarm Settings;Software Process and Device Authentication;0.5
+294;ICS;Module Firmware;Software Process and Device Authentication;0.5
+295;ICS;Point & Tag Identification;Software Process and Device Authentication;0.5
+296;ICS;Program Download;Software Process and Device Authentication;0.5
+297;ICS;Program Upload;Software Process and Device Authentication;0.5
+298;ICS;Rogue Master;Software Process and Device Authentication;0.5
+299;ICS;Spoof Reporting Message;Software Process and Device Authentication;0.5
+300;ICS;System Firmware;Software Process and Device Authentication;0.5
+301;ICS;Unauthorized Command Message;Software Process and Device Authentication;0.5
+302;ICS;Change Operating Mode;Software Process and Device Authentication;0.5
+303;ICS;Wireless Compromise;Software Process and Device Authentication;0.5
+304;ICS;Remote Services;Software Process and Device Authentication;0.5
+305;ICS;Alarm Suppression;Static Network Configuration;0.5
+306;ICS;Block Command Message;Static Network Configuration;0.5
+307;ICS;Block Reporting Message;Static Network Configuration;0.5
+308;ICS;Man in the Middle;Static Network Configuration;0.5
+309;ICS;Network Sniffing;Static Network Configuration;0.5
+310;ICS;Remote System Discovery;Static Network Configuration;0.5
+311;ICS;Remote System Information Discovery;Static Network Configuration;0.5
+312;ICS;Exploitation for Evasion;Threat Intelligence Program;0.5
+313;ICS;Exploitation of Remote Services;Threat Intelligence Program;0.5
+314;ICS;Exploitation for Privilege Escalation;Threat Intelligence Program;0.5
+315;ICS;Drive-by Compromise;Update Software;0.5
+316;ICS;Engineering Workstation Compromise;Update Software;0.5
+317;ICS;Exploit Public-Facing Application;Update Software;0.5
+318;ICS;Exploitation for Evasion;Update Software;0.5
+319;ICS;Exploitation of Remote Services;Update Software;0.5
+320;ICS;Supply Chain Compromise;Update Software;0.5
+321;ICS;System Firmware;Update Software;0.5
+322;ICS;Exploitation for Privilege Escalation;Update Software;0.5
+323;ICS;Data from Information Repositories;User Account Management;0.5
+324;ICS;External Remote Services;User Account Management;0.5
+325;ICS;Modify Alarm Settings;User Account Management;0.5
+326;ICS;Service Stop;User Account Management;0.5
+327;ICS;Valid Accounts;User Account Management;0.5
+328;ICS;Remote Services;User Account Management;0.5
+329;ICS;Data from Information Repositories;User Training;0.55
+330;ICS;Spearphishing Attachment;User Training;0.55
+331;ICS;User Execution;User Training;0.55
+332;ICS;Exploit Public-Facing Application;Vulnerability Scanning;0.5
+333;ICS;Exploitation of Remote Services;Vulnerability Scanning;0.5
+334;ICS;Supply Chain Compromise;Vulnerability Scanning;0.5
+335;ICS;Denial of Service;Watchdog Timers;0.5
+336;ICS;Supply Chain Compromise;Supply Chain Management;0.6
+337;Mobile;Install Insecure or Malicious Configuration;Use Recent OS Version;0.3
+338;Mobile;System Network Configuration Discovery;Use Recent OS Version;0.3
+339;Mobile;Exploit via Charging Station or PC;Enterprise Policy;0.35
+340;Mobile;Access Sensitive Data in Device Logs;Use Recent OS Version;0.3
+341;Mobile;Rogue Wi-Fi Access Points;Encrypt Network Traffic;0.5
+342;Mobile;Access Call Log;Use Recent OS Version;0.3
+343;Mobile;Downgrade to Insecure Protocols;Encrypt Network Traffic;0.5
+344;Mobile;Access Sensitive Data in Device Logs;Application Developer Guidance;0.25
+345;Mobile;Network Traffic Capture or Redirection;Encrypt Network Traffic;0.5
+346;Mobile;Rogue Wi-Fi Access Points;Enterprise Policy;0.35
+347;Mobile;Access Stored Application Data;Use Recent OS Version;0.3
+348;Mobile;File and Directory Discovery;Use Recent OS Version;0.3
+349;Mobile;Manipulate Device Communication;Encrypt Network Traffic;0.5
+350;Mobile;Process Discovery;Use Recent OS Version;0.3
+351;Mobile;Carrier Billing Fraud;Use Recent OS Version;0.3
+352;Mobile;Device Administrator Permissions;Use Recent OS Version;0.3
+353;Mobile;Exploit SS7 to Redirect Phone Calls/SMS;Encrypt Network Traffic;0.5
+354;Mobile;Delete Device Data;Caution with Device Administrator Access;0.5
+355;Mobile;Modify Cached Executable Code;Use Recent OS Version;0.3
+356;Mobile;Lockscreen Bypass;Enterprise Policy;0.35
+357;Mobile;Deliver Malicious App via Other Means;Enterprise Policy;0.35
+358;Mobile;Abuse Accessibility Features;Use Recent OS Version;0.3
+359;Mobile;Exploit via Charging Station or PC;Use Recent OS Version;0.3
+360;Mobile;Abuse Accessibility Features;Enterprise Policy;0.35
+361;Mobile;Clipboard Modification;Use Recent OS Version;0.3
+362;Mobile;Capture Clipboard Data;Use Recent OS Version;0.3
+363;Mobile;Capture Camera;Use Recent OS Version;0.3
+364;Mobile;Capture Audio;Use Recent OS Version;0.3
+365;Mobile;Input Capture;Enterprise Policy;0.35
+366;Mobile;Screen Capture;Enterprise Policy;0.35
+367;Mobile;Screen Capture;Application Developer Guidance;0.25
+368;Mobile;Input Injection;Enterprise Policy;0.35
+369;Mobile;Access Notifications;Application Developer Guidance;0.25
+370;Mobile;Access Notifications;Enterprise Policy;0.35
+371;Mobile;Input Prompt;Enterprise Policy;0.35
+372;Mobile;Download New Code at Runtime;Use Recent OS Version;0.3
+373;Mobile;Access Call Log;Security Updates;0.5
+374;Mobile;Abuse Accessibility Features;Application Vetting;0.5
+375;Mobile;Device Administrator Permissions;Application Vetting;0.5
+376;Mobile;Access Calendar Entries;Application Vetting;0.5
+377;Mobile;Access Call Log;Application Vetting;0.5
+378;Mobile;Capture SMS Messages;Application Vetting;0.5
+379;Mobile;Process Discovery;Application Vetting;0.5
+380;Mobile;Deliver Malicious App via Authorized App Store;Application Vetting;0.5
+381;Mobile;Obfuscated Files or Information;Application Vetting;0.5
+382;Mobile;System Network Connections Discovery;Application Vetting;0.5
+383;Mobile;Access Contact List;Application Vetting;0.5
+384;Mobile;System Information Discovery;Application Vetting;0.5
+385;Mobile;Exploit OS Vulnerability;Application Vetting;0.5
+386;Mobile;Network Traffic Capture or Redirection;Application Vetting;0.5
+387;Mobile;Capture Clipboard Data;Application Vetting;0.5
+388;Mobile;Download New Code at Runtime;Application Vetting;0.5
+389;Mobile;Location Tracking;Application Vetting;0.5
+390;Mobile;System Network Configuration Discovery;Application Vetting;0.5
+391;Mobile;Application Discovery;Application Vetting;0.5
+392;Mobile;Carrier Billing Fraud;Application Vetting;0.5
+393;Mobile;URL Scheme Hijacking;Application Vetting;0.5
+394;Mobile;URI Hijacking;Application Vetting;0.5
+395;Mobile;Data Encrypted for Impact;Application Vetting;0.5
+396;Mobile;Manipulate Device Communication;Application Vetting;0.5
+397;Mobile;Uncommonly Used Port;Application Vetting;0.5
+398;Mobile;Input Injection;Application Vetting;0.5
+399;Mobile;Device Lockout;Application Vetting;0.5
+400;Mobile;Input Capture;Application Vetting;0.5
+401;Mobile;Capture Audio;Application Vetting;0.5
+402;Mobile;Access Stored Application Data;Application Vetting;0.5
+403;Mobile;Evade Analysis Environment;Application Vetting;0.5
+404;Mobile;Capture Camera;Application Vetting;0.5
+405;Mobile;Screen Capture;Application Vetting;0.5
+406;Mobile;Clipboard Modification;Application Vetting;0.5
+407;Mobile;Screen Capture;User Guidance;0.55
+408;Mobile;Masquerade as Legitimate Application;User Guidance;0.55
+409;Mobile;Input Injection;User Guidance;0.55
+410;Mobile;Input Capture;User Guidance;0.55
+411;Mobile;Attack PC via USB Connection;User Guidance;0.55
+412;Mobile;Deliver Malicious App via Authorized App Store;User Guidance;0.55
+413;Mobile;Deliver Malicious App via Other Means;User Guidance;0.55
+414;Mobile;Obtain Device Cloud Backups;User Guidance;0.55
+415;Mobile;Install Insecure or Malicious Configuration;User Guidance;0.55
+416;Mobile;Exploit via Charging Station or PC;User Guidance;0.55
+417;Mobile;Remotely Track Device Without Authorization;User Guidance;0.55
+418;Mobile;Remotely Wipe Data Without Authorization;User Guidance;0.55
+419;Mobile;Code Injection;Application Vetting;0.5
+420;Mobile;Foreground Persistence;User Guidance;0.55
+421;Mobile;Foreground Persistence;Application Vetting;0.5
+422;Mobile;Remote File Copy;Application Vetting;0.5
+423;Mobile;Broadcast Receivers;Use Recent OS Version;0.3
+424;Mobile;Native Code;Application Vetting;0.5
+425;Mobile;Uninstall Malicious Application;Application Vetting;0.5
+426;Mobile;Uninstall Malicious Application;Attestation;0.3
+427;Mobile;Uninstall Malicious Application;Security Updates;0.5
+428;Mobile;Uninstall Malicious Application;User Guidance;0.55
+429;Mobile;Compromise Application Executable;Application Vetting;0.5
+430;Mobile;Compromise Application Executable;Security Updates;0.5
+431;Mobile;Compromise Application Executable;Use Recent OS Version;0.3
+432;Mobile;Keychain;Application Vetting;0.5
+433;Mobile;Keychain;Security Updates;0.5
+434;Mobile;Keychain;Use Recent OS Version;0.3
+435;Mobile;Keychain;Deploy Compromised Device Detection Method;0.35
+436;Mobile;Delete Device Data;User Guidance;0.55
+437;Mobile;Delete Device Data;Application Vetting;0.5
+438;Mobile;Geofencing;Application Vetting;0.5
+439;Mobile;Geofencing;User Guidance;0.55
+440;Mobile;SMS Control;User Guidance;0.55
+441;Mobile;SMS Control;Application Vetting;0.5
+442;Mobile;URI Hijacking;Application Developer Guidance;0.25
+443;Mobile;URI Hijacking;Use Recent OS Version;0.3
+444;Mobile;Geofencing;Use Recent OS Version;0.3
+445;Mobile;Device Administrator Permissions;User Guidance;0.55
+446;Mobile;Command-Line Interface;Application Vetting;0.5
+447;Mobile;Command-Line Interface;Attestation;0.3
+448;Mobile;Command-Line Interface;Deploy Compromised Device Detection Method;0.35
+449;Mobile;Call Control;Application Vetting;0.5
+450;Mobile;Call Control;User Guidance;0.55
+451;Mobile;SIM Card Swap;User Guidance;0.55
+452;Mobile;Hooking;Attestation;0.3
+453;Mobile;Hooking;Application Vetting;0.5
+454;Mobile;Hooking;Deploy Compromised Device Detection Method;0.35
+455;Mobile;User Evasion;Application Vetting;0.5
+456;Mobile;User Evasion;Deploy Compromised Device Detection Method;0.35
+457;Enterprise;Exfiltration Over C2 Channel;Exfiltration Over Command and Control Channel Mitigation;0.5
+458;Enterprise;Malicious Shell Modification;Restrict File and Directory Permissions;0.5
+459;Enterprise;Access Token Manipulation;Privileged Account Management;0.5
+460;Enterprise;Accessibility Features;Operating System Configuration;0.5
+461;Enterprise;Accessibility Features;Limit Access to Resource Over Network;0.5
+462;Enterprise;Account Discovery;Operating System Configuration;0.5
+463;Enterprise;Account Manipulation;Privileged Account Management;0.5
+464;Enterprise;Account Manipulation;Network Segmentation;0.4
+465;Enterprise;Account Manipulation;Multi-factor Authentication;0.5
+466;Enterprise;AppleScript;Code Signing;0.5
+467;Enterprise;Application Deployment Software;Update Software;0.5
+468;Enterprise;Application Deployment Software;Network Segmentation;0.4
+469;Enterprise;Application Deployment Software;Code Signing;0.5
+470;Enterprise;Application Shimming;User Account Control;0.5
+471;Enterprise;Authentication Package;Privileged Process Integrity;0.5
+472;Enterprise;Automated Collection;Remote Data Storage;0.5
+473;Enterprise;Automated Collection;Encrypt Sensitive Information;0.5
+474;Enterprise;BITS Jobs;Operating System Configuration;0.5
+475;Enterprise;BITS Jobs;Filter Network Traffic;0.6
+476;Enterprise;Bootkit;Privileged Account Management;0.5
+477;Enterprise;Bootkit;Boot Integrity;0.5
+478;Enterprise;Browser Extensions;User Training;0.55
+479;Enterprise;Browser Extensions;Limit Software Installation;0.6
+480;Enterprise;Browser Extensions;Execution Prevention;0.5
+481;Enterprise;Browser Extensions;Audit;0.5
+482;Enterprise;Brute Force;Password Policies;0.5
+483;Enterprise;Brute Force;Multi-factor Authentication;0.5
+484;Enterprise;Brute Force;Account Use Policies;0.5
+485;Enterprise;Bypass User Account Control;Privileged Account Management;0.5
+486;Enterprise;Bypass User Account Control;User Account Control;0.5
+487;Enterprise;Clear Command History;Restrict File and Directory Permissions;0.5
+488;Enterprise;Clear Command History;Environment Variable Permissions;0.5
+489;Enterprise;CMSTP;Execution Prevention;0.5
+490;Enterprise;CMSTP;Disable or Remove Feature or Program;0.5
+491;Enterprise;Commonly Used Port;Network Intrusion Prevention;0.4
+492;Enterprise;Communication Through Removable Media;Disable or Remove Feature or Program;0.5
+493;Enterprise;Compiled HTML File;Restrict Web-Based Content;0.65
+494;Enterprise;Compiled HTML File;Execution Prevention;0.5
+495;Enterprise;Proxy;Network Intrusion Prevention;0.4
+496;Enterprise;Control Panel Items;Restrict File and Directory Permissions;0.5
+497;Enterprise;Create Account;Privileged Account Management;0.5
+498;Enterprise;Create Account;Network Segmentation;0.4
+499;Enterprise;Create Account;Multi-factor Authentication;0.5
+500;Enterprise;OS Credential Dumping;Privileged Account Management;0.5
+501;Enterprise;OS Credential Dumping;Password Policies;0.5
+502;Enterprise;OS Credential Dumping;Credential Access Protection;0.5
+503;Enterprise;Credentials in Files;Active Directory Configuration;0.4
+504;Enterprise;Credentials in Registry;Audit;0.5
+505;Enterprise;Custom Command and Control Protocol;Network Segmentation;0.4
+506;Enterprise;Custom Command and Control Protocol;Network Intrusion Prevention;0.4
+507;Enterprise;Custom Cryptographic Protocol;Network Intrusion Prevention;0.4
+508;Enterprise;Data Compressed;Network Intrusion Prevention;0.4
+509;Enterprise;Data Encoding;Network Intrusion Prevention;0.4
+510;Enterprise;PowerShell Profile;Restrict File and Directory Permissions;0.5
+511;Enterprise;Endpoint Denial of Service;Filter Network Traffic;0.6
+512;Enterprise;Native API;Execution Prevention;0.5
+513;Enterprise;Exfiltration Over C2 Channel;Network Intrusion Prevention;0.4
+514;Enterprise;Exfiltration Over Physical Medium;Disable or Remove Feature or Program;0.5
+515;Enterprise;Dylib Hijacking;Restrict File and Directory Permissions;0.5
+516;Enterprise;Domain Trust Discovery;Network Segmentation;0.4
+517;Enterprise;Domain Trust Discovery;Audit;0.5
+518;Enterprise;Domain Generation Algorithms;Network Intrusion Prevention;0.4
+519;Enterprise;Domain Fronting;SSL/TLS Inspection;0.3
+520;Enterprise;DLL Side-Loading;Restrict File and Directory Permissions;0.5
+521;Enterprise;DLL Side-Loading;Update Software;0.5
+522;Enterprise;Firmware Corruption;Update Software;0.5
+523;Enterprise;Firmware Corruption;Privileged Account Management;0.5
+524;Enterprise;Firmware Corruption;Boot Integrity;0.5
+525;Enterprise;Network Denial of Service;Filter Network Traffic;0.6
+526;Enterprise;Runtime Data Manipulation;Restrict File and Directory Permissions;0.5
+527;Enterprise;Service Stop;Restrict Registry Permissions;0.5
+528;Enterprise;Service Stop;Restrict File and Directory Permissions;0.5
+529;Enterprise;Service Stop;Network Segmentation;0.4
+530;Enterprise;Stored Data Manipulation;Remote Data Storage;0.5
+531;Enterprise;Stored Data Manipulation;Encrypt Sensitive Information;0.5
+532;Enterprise;Transmitted Data Manipulation;Encrypt Sensitive Information;0.5
+533;Enterprise;Data from Information Repositories;User Training;0.55
+534;Enterprise;Data from Information Repositories;Audit;0.5
+535;Enterprise;XSL Script Processing;Execution Prevention;0.5
+536;Enterprise;Windows Remote Management;Network Segmentation;0.4
+537;Enterprise;Windows Remote Management;Disable or Remove Feature or Program;0.5
+538;Enterprise;Windows Management Instrumentation Event Subscription;User Account Management;0.5
+539;Enterprise;Windows Management Instrumentation Event Subscription;Privileged Account Management;0.5
+540;Enterprise;Email Collection;Multi-factor Authentication;0.5
+541;Enterprise;Email Collection;Encrypt Sensitive Information;0.5
+542;Enterprise;Winlogon Helper DLL;Execution Prevention;0.5
+543;Enterprise;Windows Management Instrumentation;Privileged Account Management;0.5
+544;Enterprise;Browser Session Hijacking;User Training;0.55
+545;Enterprise;Windows Admin Shares;Privileged Account Management;0.5
+546;Enterprise;Windows Admin Shares;Password Policies;0.5
+547;Enterprise;Data Obfuscation;Network Intrusion Prevention;0.4
+548;Enterprise;Web Shell;Update Software;0.5
+549;Enterprise;Web Shell;Privileged Account Management;0.5
+550;Enterprise;Fallback Channels;Network Intrusion Prevention;0.4
+551;Enterprise;Web Service;Network Intrusion Prevention;0.4
+552;Enterprise;Multi-Stage Channels;Network Intrusion Prevention;0.4
+553;Enterprise;Multi-hop Proxy;Filter Network Traffic;0.6
+554;Enterprise;Multiband Communication;Network Intrusion Prevention;0.4
+555;Enterprise;Multilayer Encryption;Network Intrusion Prevention;0.4
+556;Enterprise;Remote Access Software;Network Intrusion Prevention;0.4
+557;Enterprise;Ingress Tool Transfer;Network Intrusion Prevention;0.4
+558;Enterprise;Application Layer Protocol;Network Intrusion Prevention;0.4
+559;Enterprise;Standard Cryptographic Protocol;Network Intrusion Prevention;0.4
+560;Enterprise;Non-Application Layer Protocol;Network Segmentation;0.4
+561;Enterprise;Non-Application Layer Protocol;Network Intrusion Prevention;0.4
+562;Enterprise;Uncommonly Used Port;Network Intrusion Prevention;0.4
+563;Enterprise;Valid Accounts;Privileged Account Management;0.5
+564;Enterprise;Valid Accounts;Password Policies;0.5
+565;Enterprise;User Execution;User Training;0.55
+566;Enterprise;User Execution;Restrict Web-Based Content;0.65
+567;Enterprise;User Execution;Execution Prevention;0.5
+568;Enterprise;User Execution;Network Intrusion Prevention;0.4
+569;Enterprise;Two-Factor Authentication Interception;User Training;0.55
+570;Enterprise;Trusted Relationship;User Account Control;0.5
+571;Enterprise;Trusted Relationship;Network Segmentation;0.4
+572;Enterprise;Trusted Developer Utilities Proxy Execution;Execution Prevention;0.5
+573;Enterprise;Trusted Developer Utilities Proxy Execution;Disable or Remove Feature or Program;0.5
+574;Enterprise;Software Deployment Tools;User Training;0.55
+575;Enterprise;Software Deployment Tools;Update Software;0.5
+576;Enterprise;Software Deployment Tools;Remote Data Storage;0.5
+577;Enterprise;Software Deployment Tools;Network Segmentation;0.4
+578;Enterprise;Taint Shared Content;Restrict File and Directory Permissions;0.5
+579;Enterprise;Taint Shared Content;Exploit Protection;0.5
+580;Enterprise;Taint Shared Content;Execution Prevention;0.5
+581;Enterprise;Systemd Service;Restrict File and Directory Permissions;0.5
+582;Enterprise;Systemd Service;Limit Software Installation;0.6
+583;Enterprise;System Firmware;Privileged Account Management;0.5
+584;Enterprise;System Firmware;Update Software;0.5
+585;Enterprise;System Firmware;Boot Integrity;0.5
+586;Enterprise;Supply Chain Compromise;Vulnerability Scanning;0.5
+587;Enterprise;Supply Chain Compromise;Update Software;0.5
+588;Enterprise;Sudo;Restrict File and Directory Permissions;0.5
+589;Enterprise;Sudo;Privileged Account Management;0.5
+590;Enterprise;Startup Items;Restrict File and Directory Permissions;0.5
+591;Enterprise;SSH Hijacking;User Account Control;0.5
+592;Enterprise;SSH Hijacking;Restrict File and Directory Permissions;0.5
+593;Enterprise;SSH Hijacking;Privileged Account Management;0.5
+594;Enterprise;SSH Hijacking;Password Policies;0.5
+595;Enterprise;SSH Hijacking;Disable or Remove Feature or Program;0.5
+596;Enterprise;Spearphishing via Service;User Training;0.55
+597;Enterprise;Spearphishing via Service;Restrict Web-Based Content;0.65
+598;Enterprise;Spearphishing via Service;Antivirus/Antimalware;0.5
+599;Enterprise;Spearphishing Link;User Training;0.55
+600;Enterprise;Spearphishing Attachment;User Training;0.55
+601;Enterprise;Spearphishing Attachment;Restrict Web-Based Content;0.65
+602;Enterprise;Spearphishing Attachment;Antivirus/Antimalware;0.5
+603;Enterprise;Spearphishing Attachment;Network Intrusion Prevention;0.4
+604;Enterprise;Software Packing;Antivirus/Antimalware;0.5
+605;Enterprise;SIP and Trust Provider Hijacking;Restrict Registry Permissions;0.5
+606;Enterprise;SIP and Trust Provider Hijacking;Restrict File and Directory Permissions;0.5
+607;Enterprise;SIP and Trust Provider Hijacking;Execution Prevention;0.5
+608;Enterprise;Signed Script Proxy Execution;Execution Prevention;0.5
+609;Enterprise;SID-History Injection;Active Directory Configuration;0.4
+610;Enterprise;Shared Webroot;Restrict File and Directory Permissions;0.5
+611;Enterprise;Shared Webroot;Network Segmentation;0.4
+612;Enterprise;Shared Webroot;Limit Access to Resource Over Network;0.5
+613;Enterprise;Data Transfer Size Limits;Network Intrusion Prevention;0.4
+614;Enterprise;Exfiltration Over Alternative Protocol;Network Segmentation;0.4
+615;Enterprise;Exfiltration Over Alternative Protocol;Network Intrusion Prevention;0.4
+616;Enterprise;Setuid and Setgid;Operating System Configuration;0.5
+617;Enterprise;Service Registry Permissions Weakness;Restrict Registry Permissions;0.5
+618;Enterprise;Service Execution;Privileged Account Management;0.5
+619;Enterprise;Security Support Provider;Privileged Process Integrity;0.5
+620;Enterprise;Scheduled Transfer;Network Intrusion Prevention;0.4
+621;Enterprise;Time Providers;Restrict File and Directory Permissions;0.5
+622;Enterprise;Sudo Caching;Operating System Configuration;0.5
+623;Enterprise;Sudo Caching;Privileged Account Management;0.5
+624;Enterprise;DLL Search Order Hijacking;Audit;0.5
+625;Enterprise;DLL Search Order Hijacking;Restrict Library Loading;0.5
+626;Enterprise;DLL Search Order Hijacking;Execution Prevention;0.5
+627;Enterprise;Drive-by Compromise;Update Software;0.5
+628;Enterprise;Drive-by Compromise;Restrict Web-Based Content;0.65
+629;Enterprise;Drive-by Compromise;Application Isolation and Sandboxing;0.5
+630;Enterprise;Drive-by Compromise;Exploit Protection;0.5
+631;Enterprise;Dynamic Data Exchange;Disable or Remove Feature or Program;0.5
+632;Enterprise;Dynamic Data Exchange;Behavior Prevention on Endpoint;0.5
+633;Enterprise;Dynamic Data Exchange;Application Isolation and Sandboxing;0.5
+634;Enterprise;Scripting;Disable or Remove Feature or Program;0.5
+635;Enterprise;Scripting;Application Isolation and Sandboxing;0.5
+636;Enterprise;Exploit Public-Facing Application;Update Software;0.5
+637;Enterprise;Exploit Public-Facing Application;Application Isolation and Sandboxing;0.5
+638;Enterprise;Exploit Public-Facing Application;Privileged Account Management;0.5
+639;Enterprise;Exploit Public-Facing Application;Network Segmentation;0.4
+640;Enterprise;Screensaver;Execution Prevention;0.5
+641;Enterprise;Screensaver;Disable or Remove Feature or Program;0.5
+642;Enterprise;Exploitation for Client Execution;Exploit Protection;0.5
+643;Enterprise;Exploitation for Client Execution;Application Isolation and Sandboxing;0.5
+644;Enterprise;Exploitation for Credential Access;Update Software;0.5
+645;Enterprise;Exploitation for Credential Access;Threat Intelligence Program;0.5
+646;Enterprise;Exploitation for Credential Access;Exploit Protection;0.5
+647;Enterprise;Exploitation for Credential Access;Application Isolation and Sandboxing;0.5
+648;Enterprise;Exploitation for Defense Evasion;Update Software;0.5
+649;Enterprise;Exploitation for Defense Evasion;Exploit Protection;0.5
+650;Enterprise;Exploitation for Defense Evasion;Threat Intelligence Program;0.5
+651;Enterprise;Exploitation for Defense Evasion;Application Isolation and Sandboxing;0.5
+652;Enterprise;Exploitation for Privilege Escalation;Update Software;0.5
+653;Enterprise;Exploitation for Privilege Escalation;Threat Intelligence Program;0.5
+654;Enterprise;Exploitation for Privilege Escalation;Exploit Protection;0.5
+655;Enterprise;Exploitation for Privilege Escalation;Application Isolation and Sandboxing;0.5
+656;Enterprise;Exploitation of Remote Services;Vulnerability Scanning;0.5
+657;Enterprise;Exploitation of Remote Services;Update Software;0.5
+658;Enterprise;Exploitation of Remote Services;Threat Intelligence Program;0.5
+659;Enterprise;Exploitation of Remote Services;Privileged Account Management;0.5
+660;Enterprise;Exploitation of Remote Services;Network Segmentation;0.4
+661;Enterprise;Exploitation of Remote Services;Exploit Protection;0.5
+662;Enterprise;Exploitation of Remote Services;Disable or Remove Feature or Program;0.5
+663;Enterprise;Exploitation of Remote Services;Application Isolation and Sandboxing;0.5
+664;Enterprise;Component Object Model and Distributed COM;Privileged Account Management;0.5
+665;Enterprise;Component Object Model and Distributed COM;Network Segmentation;0.4
+666;Enterprise;Component Object Model and Distributed COM;Application Isolation and Sandboxing;0.5
+667;Enterprise;Component Object Model and Distributed COM;Disable or Remove Feature or Program;0.5
+668;Enterprise;Boot or Logon Initialization Scripts;Restrict File and Directory Permissions;0.5
+669;Enterprise;Pass the Hash;User Account Control;0.5
+670;Enterprise;Pass the Hash;Privileged Account Management;0.5
+671;Enterprise;Pass the Hash;Password Policies;0.5
+672;Enterprise;Pass the Ticket;Privileged Account Management;0.5
+673;Enterprise;Pass the Ticket;Password Policies;0.5
+674;Enterprise;Remote Desktop Protocol;Privileged Account Management;0.5
+675;Enterprise;Remote Desktop Protocol;Operating System Configuration;0.5
+676;Enterprise;Remote Desktop Protocol;Network Segmentation;0.4
+677;Enterprise;Remote Desktop Protocol;Multi-factor Authentication;0.5
+678;Enterprise;Remote Desktop Protocol;Disable or Remove Feature or Program;0.5
+679;Enterprise;Remote Desktop Protocol;Audit;0.5
+680;Enterprise;Replication Through Removable Media;Disable or Remove Feature or Program;0.5
+681;Enterprise;Network Sniffing;Multi-factor Authentication;0.5
+682;Enterprise;Network Sniffing;Encrypt Sensitive Information;0.5
+683;Enterprise;Password Policy Discovery;Password Policies;0.5
+684;Enterprise;AppInit DLLs;Update Software;0.5
+685;Enterprise;Command and Scripting Interpreter;Execution Prevention;0.5
+686;Enterprise;Disabling Security Tools;Restrict File and Directory Permissions;0.5
+687;Enterprise;Rundll32;Exploit Protection;0.5
+688;Enterprise;Regsvr32;Exploit Protection;0.5
+689;Enterprise;Regsvcs/Regasm;Disable or Remove Feature or Program;0.5
+690;Enterprise;File System Permissions Weakness;User Account Control;0.5
+691;Enterprise;File System Permissions Weakness;Audit;0.5
+692;Enterprise;Forced Authentication;Password Policies;0.5
+693;Enterprise;Forced Authentication;Filter Network Traffic;0.6
+694;Enterprise;Redundant Access;Network Intrusion Prevention;0.4
+695;Enterprise;Re-opened Applications;User Training;0.55
+696;Enterprise;Re-opened Applications;Disable or Remove Feature or Program;0.5
+697;Enterprise;Private Keys;Restrict File and Directory Permissions;0.5
+698;Enterprise;Private Keys;Password Policies;0.5
+699;Enterprise;Private Keys;Network Segmentation;0.4
+700;Enterprise;Private Keys;Audit;0.5
+701;Enterprise;PowerShell;Disable or Remove Feature or Program;0.5
+702;Enterprise;Plist Modification;Restrict File and Directory Permissions;0.5
+703;Enterprise;Path Interception;Restrict File and Directory Permissions;0.5
+704;Enterprise;Path Interception;Execution Prevention;0.5
+705;Enterprise;Path Interception;Audit;0.5
+706;Enterprise;Office Application Startup;Disable or Remove Feature or Program;0.5
+707;Enterprise;Obfuscated Files or Information;Antivirus/Antimalware;0.5
+708;Enterprise;NTFS File Attributes;Restrict File and Directory Permissions;0.5
+709;Enterprise;Network Service Scanning;Network Intrusion Prevention;0.4
+710;Enterprise;Network Service Scanning;Disable or Remove Feature or Program;0.5
+711;Enterprise;Mshta;Disable or Remove Feature or Program;0.5
+712;Enterprise;Mshta;Execution Prevention;0.5
+713;Enterprise;Modify Registry;Restrict Registry Permissions;0.5
+714;Enterprise;Modify Existing Service;Audit;0.5
+715;Enterprise;Masquerading;Restrict File and Directory Permissions;0.5
+716;Enterprise;Masquerading;Code Signing;0.5
+717;Enterprise;LSASS Driver;Restrict Library Loading;0.5
+718;Enterprise;LSASS Driver;Code Signing;0.5
+719;Enterprise;Login Item;User Training;0.55
+720;Enterprise;LLMNR/NBT-NS Poisoning and Relay;Filter Network Traffic;0.6
+721;Enterprise;LLMNR/NBT-NS Poisoning and Relay;Disable or Remove Feature or Program;0.5
+722;Enterprise;LC_MAIN Hijacking;Code Signing;0.5
+723;Enterprise;LC_LOAD_DYLIB Addition;Code Signing;0.5
+724;Enterprise;LC_LOAD_DYLIB Addition;Audit;0.5
+725;Enterprise;Kernel Modules and Extensions;Execution Prevention;0.5
+726;Enterprise;Kernel Modules and Extensions;Antivirus/Antimalware;0.5
+727;Enterprise;Kerberoasting;Privileged Account Management;0.5
+728;Enterprise;Kerberoasting;Encrypt Sensitive Information;0.5
+729;Enterprise;Kerberoasting;Password Policies;0.5
+730;Enterprise;InstallUtil;Disable or Remove Feature or Program;0.5
+731;Enterprise;InstallUtil;Execution Prevention;0.5
+732;Enterprise;Input Prompt;User Training;0.55
+733;Enterprise;Indicator Removal on Host;Remote Data Storage;0.5
+734;Enterprise;Indicator Removal on Host;Encrypt Sensitive Information;0.5
+735;Enterprise;Indicator Removal on Host;Restrict File and Directory Permissions;0.5
+736;Enterprise;Indicator Blocking;Restrict File and Directory Permissions;0.5
+737;Enterprise;HISTCONTROL;Environment Variable Permissions;0.5
+738;Enterprise;HISTCONTROL;Operating System Configuration;0.5
+739;Enterprise;Hidden Users;Operating System Configuration;0.5
+740;Enterprise;Hardware Additions;Limit Hardware Installation;0.6
+741;Enterprise;Hardware Additions;Limit Access to Resource Over Network;0.5
+742;Enterprise;Domain Policy Modification;Audit;0.5
+743;Enterprise;Gatekeeper Bypass;Execution Prevention;0.5
+744;Enterprise;Template Injection;User Training;0.55
+745;Enterprise;Template Injection;Network Intrusion Prevention;0.4
+746;Enterprise;Template Injection;Disable or Remove Feature or Program;0.5
+747;Enterprise;Template Injection;Antivirus/Antimalware;0.5
+748;Enterprise;Credentials from Web Browsers;Password Policies;0.5
+749;Enterprise;Server Software Component;Code Signing;0.5
+750;Enterprise;Server Software Component;Privileged Account Management;0.5
+751;Enterprise;Access Token Manipulation;User Account Management;0.5
+752;Enterprise;Accessibility Features;Execution Prevention;0.5
+753;Enterprise;AppCert DLLs;Execution Prevention;0.5
+754;Enterprise;AppInit DLLs;Execution Prevention;0.5
+755;Enterprise;Application Deployment Software;Multi-factor Authentication;0.5
+756;Enterprise;Application Deployment Software;Privileged Account Management;0.5
+757;Enterprise;Application Shimming;Update Software;0.5
+758;Enterprise;Bash History;Operating System Configuration;0.5
+759;Enterprise;BITS Jobs;User Account Management;0.5
+760;Enterprise;Bypass User Account Control;Audit;0.5
+761;Enterprise;Commonly Used Port;Network Segmentation;0.4
+762;Enterprise;Communication Through Removable Media;Operating System Configuration;0.5
+763;Enterprise;Control Panel Items;Execution Prevention;0.5
+764;Enterprise;Create Account;Operating System Configuration;0.5
+765;Enterprise;OS Credential Dumping;User Training;0.55
+766;Enterprise;OS Credential Dumping;Active Directory Configuration;0.4
+767;Enterprise;OS Credential Dumping;Privileged Process Integrity;0.5
+768;Enterprise;OS Credential Dumping;Operating System Configuration;0.5
+769;Enterprise;Credentials in Files;Restrict File and Directory Permissions;0.5
+770;Enterprise;Credentials in Files;Audit;0.5
+771;Enterprise;Credentials in Files;User Training;0.55
+772;Enterprise;Credentials in Files;Password Policies;0.5
+773;Enterprise;Credentials in Registry;Privileged Account Management;0.5
+774;Enterprise;Credentials in Registry;Password Policies;0.5
+775;Enterprise;Custom Command and Control Protocol;Filter Network Traffic;0.6
+776;Enterprise;Data from Information Repositories;User Account Management;0.5
+777;Enterprise;Disabling Security Tools;User Account Management;0.5
+778;Enterprise;Winlogon Helper DLL;User Account Management;0.5
+779;Enterprise;DLL Side-Loading;Audit;0.5
+780;Enterprise;Domain Fronting;Execution Prevention;0.5
+781;Enterprise;Domain Generation Algorithms;Restrict Web-Based Content;0.65
+782;Enterprise;Windows Remote Management;Privileged Account Management;0.5
+783;Enterprise;Dylib Hijacking;User Account Management;0.5
+784;Enterprise;Windows Management Instrumentation;User Account Management;0.5
+785;Enterprise;Shared Modules;Execution Prevention;0.5
+786;Enterprise;Exfiltration Over Alternative Protocol;Filter Network Traffic;0.6
+787;Enterprise;Exfiltration Over Other Network Medium;Operating System Configuration;0.5
+788;Enterprise;Exploit Public-Facing Application;Exploit Protection;0.5
+789;Enterprise;Exploit Public-Facing Application;Vulnerability Scanning;0.5
+790;Enterprise;Uncommonly Used Port;Network Segmentation;0.4
+791;Enterprise;External Remote Services;Limit Access to Resource Over Network;0.5
+792;Enterprise;External Remote Services;Network Segmentation;0.4
+793;Enterprise;External Remote Services;Disable or Remove Feature or Program;0.5
+794;Enterprise;External Remote Services;Multi-factor Authentication;0.5
+795;Enterprise;File System Permissions Weakness;User Account Management;0.5
+796;Enterprise;Domain Policy Modification;User Account Management;0.5
+797;Enterprise;Time Providers;Restrict Registry Permissions;0.5
+798;Enterprise;Indicator Blocking;User Account Management;0.5
+799;Enterprise;Inhibit System Recovery;Operating System Configuration;0.5
+800;Enterprise;Install Root Certificate;Operating System Configuration;0.5
+801;Enterprise;Kernel Modules and Extensions;Privileged Account Management;0.5
+802;Enterprise;Keychain;Password Policies;0.5
+803;Enterprise;Launch Agent;User Account Management;0.5
+804;Enterprise;Launch Daemon;User Account Management;0.5
+805;Enterprise;Launchctl;User Account Management;0.5
+806;Enterprise;LC_LOAD_DYLIB Addition;Execution Prevention;0.5
+807;Enterprise;Local Job Scheduling;User Account Management;0.5
+808;Enterprise;Login Item;User Account Management;0.5
+809;Enterprise;LSASS Driver;Credential Access Protection;0.5
+810;Enterprise;Browser Session Hijacking;User Account Management;0.5
+811;Enterprise;Masquerading;Execution Prevention;0.5
+812;Enterprise;Modify Existing Service;User Account Management;0.5
+813;Enterprise;Network Service Scanning;Network Segmentation;0.4
+814;Enterprise;New Service;User Account Management;0.5
+815;Enterprise;Office Application Startup;Update Software;0.5
+816;Enterprise;Pass the Hash;User Account Management;0.5
+817;Enterprise;Pass the Hash;Update Software;0.5
+818;Enterprise;Pass the Ticket;Active Directory Configuration;0.4
+819;Enterprise;Pass the Ticket;User Account Management;0.5
+820;Enterprise;Password Filter DLL;Operating System Configuration;0.5
+821;Enterprise;Path Interception;User Account Management;0.5
+822;Enterprise;Traffic Signaling;Filter Network Traffic;0.6
+823;Enterprise;PowerShell;Privileged Account Management;0.5
+824;Enterprise;PowerShell;Code Signing;0.5
+825;Enterprise;PowerShell Profile;Code Signing;0.5
+826;Enterprise;Private Keys;Encrypt Sensitive Information;0.5
+827;Enterprise;Process Injection;Behavior Prevention on Endpoint;0.5
+828;Enterprise;Rc.common;User Account Management;0.5
+829;Enterprise;Regsvcs/Regasm;Execution Prevention;0.5
+830;Enterprise;Remote Access Software;Execution Prevention;0.5
+831;Enterprise;Remote Access Software;Filter Network Traffic;0.6
+832;Enterprise;Remote Desktop Protocol;Limit Access to Resource Over Network;0.5
+833;Enterprise;Remote Desktop Protocol;User Account Management;0.5
+834;Enterprise;Remote Services;User Account Management;0.5
+835;Enterprise;Replication Through Removable Media;Limit Hardware Installation;0.6
+836;Enterprise;Runtime Data Manipulation;Network Segmentation;0.4
+837;Enterprise;Startup Items;User Account Management;0.5
+838;Enterprise;Scheduled Task/Job;Scheduled Task Mitigation;0.5
+839;Enterprise;Stored Data Manipulation;Restrict File and Directory Permissions;0.5
+840;Enterprise;Systemd Service;Privileged Account Management;0.5
+841;Enterprise;Systemd Service;User Account Management;0.5
+842;Enterprise;Software Deployment Tools;Password Policies;0.5
+843;Enterprise;Software Deployment Tools;Privileged Account Management;0.5
+844;Enterprise;Service Execution;Restrict File and Directory Permissions;0.5
+845;Enterprise;Service Stop;User Account Management;0.5
+846;Enterprise;Shared Webroot;Privileged Account Management;0.5
+847;Enterprise;Shared Webroot;User Account Management;0.5
+848;Enterprise;Shortcut Modification;User Account Management;0.5
+849;Enterprise;Software Deployment Tools;Multi-factor Authentication;0.5
+850;Enterprise;Software Deployment Tools;Active Directory Configuration;0.4
+851;Enterprise;Non-Application Layer Protocol;Filter Network Traffic;0.6
+852;Enterprise;Web Service;Restrict Web-Based Content;0.65
+853;Enterprise;Software Deployment Tools;User Account Management;0.5
+854;Enterprise;Spearphishing Link;Restrict Web-Based Content;0.65
+855;Enterprise;Scheduled Task/Job;Privileged Account Management;0.5
+856;Enterprise;Scheduled Task/Job;Operating System Configuration;0.5
+857;Enterprise;Scheduled Task/Job;Audit;0.5
+858;Enterprise;Scheduled Task/Job;User Account Management;0.5
+859;Enterprise;Data Destruction;Data Backup;0.5
+860;Enterprise;Data Encrypted for Impact;Data Backup;0.5
+861;Enterprise;Defacement;Data Backup;0.5
+862;Enterprise;Disk Content Wipe;Data Backup;0.5
+863;Enterprise;Disk Structure Wipe;Data Backup;0.5
+864;Enterprise;Inhibit System Recovery;Data Backup;0.5
+865;Enterprise;Dynamic Data Exchange;Software Configuration;0.45
+866;Enterprise;Indicator Blocking;Software Configuration;0.45
+867;Enterprise;Install Root Certificate;Software Configuration;0.45
+868;Enterprise;Office Application Startup;Software Configuration;0.45
+869;Enterprise;PowerShell Profile;Software Configuration;0.45
+870;Enterprise;Execution Guardrails;Do Not Mitigate;0.5
+871;Enterprise;Standard Cryptographic Protocol;SSL/TLS Inspection;0.3
+872;Enterprise;Elevated Execution with Prompt;Execution Prevention;0.5
+873;Enterprise;Application Access Token;Restrict Web-Based Content;0.65
+874;Enterprise;Application Access Token;Audit;0.5
+875;Enterprise;XDG Autostart Entries;Restrict File and Directory Permissions;0.5
+876;Enterprise;XDG Autostart Entries;User Account Management;0.5
+877;Enterprise;XDG Autostart Entries;Limit Software Installation;0.6
+878;Enterprise;Emond;Disable or Remove Feature or Program;0.5
+879;Enterprise;Server Software Component;Audit;0.5
+880;Enterprise;Implant Internal Image;Audit;0.5
+881;Enterprise;Implant Internal Image;Privileged Account Management;0.5
+882;Enterprise;Account Manipulation;Operating System Configuration;0.5
+883;Enterprise;Email Collection;Audit;0.5
+884;Enterprise;Application Access Token;Encrypt Sensitive Information;0.5
+885;Enterprise;Steal Application Access Token;User Training;0.55
+886;Enterprise;Data from Cloud Storage Object;User Account Management;0.5
+887;Enterprise;Data from Cloud Storage Object;Multi-factor Authentication;0.5
+888;Enterprise;Data from Cloud Storage Object;Encrypt Sensitive Information;0.5
+889;Enterprise;Data from Cloud Storage Object;Audit;0.5
+890;Enterprise;Data from Cloud Storage Object;Restrict File and Directory Permissions;0.5
+891;Enterprise;Hidden Window;Execution Prevention;0.5
+892;Enterprise;Steal Application Access Token;Audit;0.5
+893;Enterprise;Steal Application Access Token;User Account Management;0.5
+894;Enterprise;Steal Application Access Token;Restrict Web-Based Content;0.65
+895;Enterprise;Valid Accounts;Application Developer Guidance;0.25
+896;Enterprise;Unused/Unsupported Cloud Regions;Software Configuration;0.45
+897;Enterprise;Cloud Instance Metadata API;Filter Network Traffic;0.6
+898;Enterprise;Transfer Data to Cloud Account;Filter Network Traffic;0.6
+899;Enterprise;Transfer Data to Cloud Account;User Account Management;0.5
+900;Enterprise;Create Cloud Instance;User Account Management;0.5
+901;Enterprise;Cloud Service Dashboard;User Account Management;0.5
+902;Enterprise;Steal Web Session Cookie;Multi-factor Authentication;0.5
+903;Enterprise;Steal Web Session Cookie;Software Configuration;0.45
+904;Enterprise;Steal Web Session Cookie;User Training;0.55
+905;Enterprise;Web Session Cookie;Software Configuration;0.45
+906;Enterprise;Implant Internal Image;Code Signing;0.5
+907;Enterprise;Data from Cloud Storage Object;Filter Network Traffic;0.6
+908;Enterprise;Transfer Data to Cloud Account;Password Policies;0.5
+909;Enterprise;Office Test;Software Configuration;0.45
+910;Enterprise;Outlook Rules;Update Software;0.5
+911;Enterprise;Outlook Forms;Update Software;0.5
+912;Enterprise;Outlook Home Page;Update Software;0.5
+913;Enterprise;Office Template Macros;Disable or Remove Feature or Program;0.5
+914;Enterprise;Pre-OS Boot;Update Software;0.5
+915;Enterprise;Pre-OS Boot;Privileged Account Management;0.5
+916;Enterprise;Pre-OS Boot;Boot Integrity;0.5
+917;Enterprise;At (Windows);User Account Management;0.5
+918;Enterprise;At (Windows);Privileged Account Management;0.5
+919;Enterprise;At (Windows);Operating System Configuration;0.5
+920;Enterprise;At (Windows);Audit;0.5
+921;Enterprise;Scheduled Task;User Account Management;0.5
+922;Enterprise;Scheduled Task;Privileged Account Management;0.5
+923;Enterprise;Scheduled Task;Operating System Configuration;0.5
+924;Enterprise;Scheduled Task;Audit;0.5
+925;Enterprise;At (Linux);User Account Management;0.5
+926;Enterprise;At (Linux);Audit;0.5
+927;Enterprise;Launchd;User Account Management;0.5
+928;Enterprise;Launchd;Launch Daemon Mitigation;0.5
+929;Enterprise;Launchd;Audit;0.5
+930;Enterprise;Cron;Audit;0.5
+931;Enterprise;Cron;User Account Management;0.5
+932;Enterprise;Transport Agent;Code Signing;0.5
+933;Enterprise;System Firmware;Boot Integrity;0.5
+934;Enterprise;System Firmware;Update Software;0.5
+935;Enterprise;System Firmware;Privileged Account Management;0.5
+936;Enterprise;System Firmware;System Firmware Mitigation;0.5
+937;Enterprise;Component Firmware;Component Firmware Mitigation;0.5
+938;Enterprise;Bootkit;Boot Integrity;0.5
+939;Enterprise;Bootkit;Privileged Account Management;0.5
+940;Enterprise;Transport Agent;Privileged Account Management;0.5
+941;Enterprise;Transport Agent;Audit;0.5
+942;Enterprise;SQL Stored Procedures;Privileged Account Management;0.5
+943;Enterprise;SQL Stored Procedures;Code Signing;0.5
+944;Enterprise;SQL Stored Procedures;Audit;0.5
+945;Enterprise;Logon Script (Mac);Restrict File and Directory Permissions;0.5
+946;Enterprise;Network Logon Script;Restrict File and Directory Permissions;0.5
+947;Enterprise;Startup Items;Restrict File and Directory Permissions;0.5
+948;Enterprise;Systemd Service;User Account Management;0.5
+949;Enterprise;Systemd Service;Privileged Account Management;0.5
+950;Enterprise;Systemd Service;Limit Software Installation;0.6
+951;Enterprise;Systemd Service;Restrict File and Directory Permissions;0.5
+952;Enterprise;Windows Service;Audit;0.5
+953;Enterprise;Windows Service;User Account Management;0.5
+954;Enterprise;Launch Daemon;User Account Management;0.5
+955;Enterprise;Additional Cloud Credentials;Privileged Account Management;0.5
+956;Enterprise;Additional Cloud Credentials;Network Segmentation;0.4
+957;Enterprise;Additional Cloud Credentials;Multi-factor Authentication;0.5
+958;Enterprise;Exchange Email Delegate Permissions;Privileged Account Management;0.5
+959;Enterprise;Exchange Email Delegate Permissions;Multi-factor Authentication;0.5
+960;Enterprise;Add Office 365 Global Administrator Role;Privileged Account Management;0.5
+961;Enterprise;Add Office 365 Global Administrator Role;Multi-factor Authentication;0.5
+962;Enterprise;Rundll32;Exploit Protection;0.5
+963;Enterprise;CMSTP;Execution Prevention;0.5
+964;Enterprise;CMSTP;Disable or Remove Feature or Program;0.5
+965;Enterprise;Compiled HTML File;Restrict Web-Based Content;0.65
+966;Enterprise;Compiled HTML File;Execution Prevention;0.5
+967;Enterprise;InstallUtil;Execution Prevention;0.5
+968;Enterprise;InstallUtil;Disable or Remove Feature or Program;0.5
+969;Enterprise;Mshta;Execution Prevention;0.5
+970;Enterprise;Mshta;Disable or Remove Feature or Program;0.5
+971;Enterprise;Regsvcs/Regasm;Execution Prevention;0.5
+972;Enterprise;Regsvcs/Regasm;Disable or Remove Feature or Program;0.5
+973;Enterprise;Regsvr32;Exploit Protection;0.5
+974;Enterprise;Control Panel;Restrict File and Directory Permissions;0.5
+975;Enterprise;Control Panel;Execution Prevention;0.5
+976;Enterprise;Screensaver;Execution Prevention;0.5
+977;Enterprise;Screensaver;Disable or Remove Feature or Program;0.5
+978;Enterprise;Windows Management Instrumentation Event Subscription;User Account Management;0.5
+979;Enterprise;Windows Management Instrumentation Event Subscription;Privileged Account Management;0.5
+980;Enterprise;Unix Shell Configuration Modification;Restrict File and Directory Permissions;0.5
+981;Enterprise;LC_LOAD_DYLIB Addition;Execution Prevention;0.5
+982;Enterprise;LC_LOAD_DYLIB Addition;Code Signing;0.5
+983;Enterprise;LC_LOAD_DYLIB Addition;Audit;0.5
+984;Enterprise;Accessibility Features;Operating System Configuration;0.5
+985;Enterprise;Accessibility Features;Limit Access to Resource Over Network;0.5
+986;Enterprise;Accessibility Features;Execution Prevention;0.5
+987;Enterprise;Msiexec;Privileged Account Management;0.5
+988;Enterprise;AppCert DLLs;Execution Prevention;0.5
+989;Enterprise;AppInit DLLs;Update Software;0.5
+990;Enterprise;AppInit DLLs;Execution Prevention;0.5
+991;Enterprise;Authentication Package;Privileged Process Integrity;0.5
+992;Enterprise;Application Shimming;User Account Control;0.5
+993;Enterprise;Application Shimming;Update Software;0.5
+994;Enterprise;Odbcconf;Disable or Remove Feature or Program;0.5
+995;Enterprise;Odbcconf;Execution Prevention;0.5
+996;Enterprise;PowerShell Profile;Software Configuration;0.45
+997;Enterprise;PowerShell Profile;Restrict File and Directory Permissions;0.5
+998;Enterprise;PowerShell Profile;Code Signing;0.5
+999;Enterprise;Emond;Disable or Remove Feature or Program;0.5
+1000;Enterprise;Time Providers;Restrict File and Directory Permissions;0.5
+1001;Enterprise;Time Providers;Restrict Registry Permissions;0.5
+1002;Enterprise;Winlogon Helper DLL;Execution Prevention;0.5
+1003;Enterprise;Winlogon Helper DLL;User Account Management;0.5
+1004;Enterprise;Security Support Provider;Privileged Process Integrity;0.5
+1005;Enterprise;Kernel Modules and Extensions;Execution Prevention;0.5
+1006;Enterprise;Kernel Modules and Extensions;Antivirus/Antimalware;0.5
+1007;Enterprise;Kernel Modules and Extensions;Privileged Account Management;0.5
+1008;Enterprise;Re-opened Applications;User Training;0.55
+1009;Enterprise;Re-opened Applications;Disable or Remove Feature or Program;0.5
+1010;Enterprise;LSASS Driver;Restrict Library Loading;0.5
+1011;Enterprise;LSASS Driver;Credential Access Protection;0.5
+1012;Enterprise;Shortcut Modification;User Account Management;0.5
+1013;Enterprise;Plist Modification;Restrict File and Directory Permissions;0.5
+1014;Enterprise;Local Account;Multi-factor Authentication;0.5
+1015;Enterprise;Local Account;Privileged Account Management;0.5
+1016;Enterprise;Domain Account;Multi-factor Authentication;0.5
+1017;Enterprise;Domain Account;Network Segmentation;0.4
+1018;Enterprise;Domain Account;Operating System Configuration;0.5
+1019;Enterprise;Domain Account;Privileged Account Management;0.5
+1020;Enterprise;Clear Windows Event Logs;Restrict File and Directory Permissions;0.5
+1021;Enterprise;Clear Windows Event Logs;Encrypt Sensitive Information;0.5
+1022;Enterprise;Clear Windows Event Logs;Remote Data Storage;0.5
+1023;Enterprise;Clear Windows Event Logs;Indicator Removal on Host Mitigation;0.5
+1024;Enterprise;Clear Linux or Mac System Logs;Restrict File and Directory Permissions;0.5
+1025;Enterprise;Clear Linux or Mac System Logs;Encrypt Sensitive Information;0.5
+1026;Enterprise;Clear Linux or Mac System Logs;Remote Data Storage;0.5
+1027;Enterprise;Clear Linux or Mac System Logs;Indicator Removal on Host Mitigation;0.5
+1028;Enterprise;Cloud Account;Privileged Account Management;0.5
+1029;Enterprise;Cloud Account;Network Segmentation;0.4
+1030;Enterprise;Cloud Account;Multi-factor Authentication;0.5
+1031;Enterprise;Setuid and Setgid;Operating System Configuration;0.5
+1032;Enterprise;Bypass User Account Control;Privileged Account Management;0.5
+1033;Enterprise;Bypass User Account Control;User Account Control;0.5
+1034;Enterprise;Bypass User Account Control;Audit;0.5
+1035;Enterprise;Sudo and Sudo Caching;Operating System Configuration;0.5
+1036;Enterprise;Sudo and Sudo Caching;Restrict File and Directory Permissions;0.5
+1037;Enterprise;Sudo and Sudo Caching;Privileged Account Management;0.5
+1038;Enterprise;Elevated Execution with Prompt;Execution Prevention;0.5
+1039;Enterprise;Use Alternate Authentication Material;User Account Management;0.5
+1040;Enterprise;Use Alternate Authentication Material;Privileged Account Management;0.5
+1041;Enterprise;Pass the Hash;User Account Management;0.5
+1042;Enterprise;Pass the Hash;User Account Control;0.5
+1043;Enterprise;Pass the Hash;Update Software;0.5
+1044;Enterprise;Pass the Hash;Privileged Account Management;0.5
+1045;Enterprise;Pass the Ticket;User Account Management;0.5
+1046;Enterprise;Pass the Ticket;Privileged Account Management;0.5
+1047;Enterprise;Pass the Ticket;Active Directory Configuration;0.4
+1048;Enterprise;Pass the Ticket;Password Policies;0.5
+1049;Enterprise;Application Access Token;Restrict Web-Based Content;0.65
+1050;Enterprise;Application Access Token;Encrypt Sensitive Information;0.5
+1051;Enterprise;Application Access Token;Audit;0.5
+1052;Enterprise;Web Session Cookie;Software Configuration;0.45
+1053;Enterprise;Clear Command History;Environment Variable Permissions;0.5
+1054;Enterprise;Clear Command History;Restrict File and Directory Permissions;0.5
+1055;Enterprise;Clear Command History;Clear Command History Mitigation;0.5
+1056;Enterprise;PubPrn;Execution Prevention;0.5
+1057;Enterprise;Credentials In Files;Password Policies;0.5
+1058;Enterprise;Credentials In Files;Audit;0.5
+1059;Enterprise;Credentials In Files;Restrict File and Directory Permissions;0.5
+1060;Enterprise;Credentials In Files;User Training;0.55
+1061;Enterprise;Credentials In Files;Credentials in Files Mitigation;0.5
+1062;Enterprise;Credentials in Registry;Password Policies;0.5
+1063;Enterprise;Credentials in Registry;Privileged Account Management;0.5
+1064;Enterprise;Credentials in Registry;Audit;0.5
+1065;Enterprise;Credentials in Registry;Credentials in Registry Mitigation;0.5
+1066;Enterprise;Bash History;Operating System Configuration;0.5
+1067;Enterprise;Bash History;Bash History Mitigation;0.5
+1068;Enterprise;Private Keys;Encrypt Sensitive Information;0.5
+1069;Enterprise;Private Keys;Audit;0.5
+1070;Enterprise;Private Keys;Password Policies;0.5
+1071;Enterprise;Private Keys;Restrict File and Directory Permissions;0.5
+1072;Enterprise;Private Keys;Private Keys Mitigation;0.5
+1073;Enterprise;Unsecured Credentials;Audit;0.5
+1074;Enterprise;Unsecured Credentials;Active Directory Configuration;0.4
+1075;Enterprise;Unsecured Credentials;Restrict File and Directory Permissions;0.5
+1076;Enterprise;File and Directory Permissions Modification;Privileged Account Management;0.5
+1077;Enterprise;File and Directory Permissions Modification;Restrict File and Directory Permissions;0.5
+1078;Enterprise;Windows File and Directory Permissions Modification;Privileged Account Management;0.5
+1079;Enterprise;Windows File and Directory Permissions Modification;Restrict File and Directory Permissions;0.5
+1080;Enterprise;Linux and Mac File and Directory Permissions Modification;Privileged Account Management;0.5
+1081;Enterprise;Linux and Mac File and Directory Permissions Modification;Restrict File and Directory Permissions;0.5
+1082;Enterprise;Software Packing;Antivirus/Antimalware;0.5
+1083;Enterprise;Gatekeeper Bypass;Execution Prevention;0.5
+1084;Enterprise;SIP and Trust Provider Hijacking;Restrict Registry Permissions;0.5
+1085;Enterprise;SIP and Trust Provider Hijacking;Restrict File and Directory Permissions;0.5
+1086;Enterprise;SIP and Trust Provider Hijacking;Execution Prevention;0.5
+1087;Enterprise;Invalid Code Signature;Code Signing;0.5
+1088;Enterprise;Rename System Utilities;Restrict File and Directory Permissions;0.5
+1089;Enterprise;Match Legitimate Name or Location;Code Signing;0.5
+1090;Enterprise;Match Legitimate Name or Location;Execution Prevention;0.5
+1091;Enterprise;Match Legitimate Name or Location;Restrict File and Directory Permissions;0.5
+1092;Enterprise;Remote Desktop Protocol;User Account Management;0.5
+1093;Enterprise;Remote Desktop Protocol;Privileged Account Management;0.5
+1094;Enterprise;Remote Desktop Protocol;Operating System Configuration;0.5
+1095;Enterprise;Remote Desktop Protocol;Network Segmentation;0.4
+1096;Enterprise;Remote Desktop Protocol;Multi-factor Authentication;0.5
+1097;Enterprise;Remote Desktop Protocol;Audit;0.5
+1098;Enterprise;Remote Desktop Protocol;Limit Access to Resource Over Network;0.5
+1099;Enterprise;Remote Desktop Protocol;Disable or Remove Feature or Program;0.5
+1100;Enterprise;SMB/Windows Admin Shares;Privileged Account Management;0.5
+1101;Enterprise;SMB/Windows Admin Shares;Password Policies;0.5
+1102;Enterprise;Distributed Component Object Model;Privileged Account Management;0.5
+1103;Enterprise;Distributed Component Object Model;Network Segmentation;0.4
+1104;Enterprise;Distributed Component Object Model;Disable or Remove Feature or Program;0.5
+1105;Enterprise;Distributed Component Object Model;Application Isolation and Sandboxing;0.5
+1106;Enterprise;SSH;User Account Management;0.5
+1107;Enterprise;SSH;Multi-factor Authentication;0.5
+1108;Enterprise;SSH;Disable or Remove Feature or Program;0.5
+1109;Enterprise;VNC;Limit Software Installation;0.6
+1110;Enterprise;VNC;Filter Network Traffic;0.6
+1111;Enterprise;VNC;Audit;0.5
+1112;Enterprise;VNC;Disable or Remove Feature or Program;0.5
+1113;Enterprise;Windows Remote Management;Privileged Account Management;0.5
+1114;Enterprise;Windows Remote Management;Network Segmentation;0.4
+1115;Enterprise;Windows Remote Management;Disable or Remove Feature or Program;0.5
+1116;Enterprise;Confluence;User Account Management;0.5
+1117;Enterprise;Confluence;Audit;0.5
+1118;Enterprise;Credentials from Password Stores;Password Policies;0.5
+1119;Enterprise;Keychain;Password Policies;0.5
+1120;Enterprise;Credentials from Web Browsers;Password Policies;0.5
+1121;Enterprise;Cloud Instance Metadata API;Filter Network Traffic;0.6
+1122;Enterprise;Group Policy Preferences;Audit;0.5
+1123;Enterprise;GUI Input Capture;User Training;0.55
+1124;Enterprise;Token Impersonation/Theft;Privileged Account Management;0.5
+1125;Enterprise;Token Impersonation/Theft;User Account Management;0.5
+1126;Enterprise;Create Process with Token;Privileged Account Management;0.5
+1127;Enterprise;Create Process with Token;User Account Management;0.5
+1128;Enterprise;Make and Impersonate Token;Privileged Account Management;0.5
+1129;Enterprise;Make and Impersonate Token;User Account Management;0.5
+1130;Enterprise;SID-History Injection;Active Directory Configuration;0.4
+1131;Enterprise;Local Email Collection;Encrypt Sensitive Information;0.5
+1132;Enterprise;Remote Email Collection;Multi-factor Authentication;0.5
+1133;Enterprise;Remote Email Collection;Encrypt Sensitive Information;0.5
+1134;Enterprise;Email Forwarding Rule;Encrypt Sensitive Information;0.5
+1135;Enterprise;Email Forwarding Rule;Audit;0.5
+1136;Enterprise;DCSync;Privileged Account Management;0.5
+1137;Enterprise;DCSync;Password Policies;0.5
+1138;Enterprise;DCSync;Active Directory Configuration;0.4
+1139;Enterprise;Internal Defacement;Defacement Mitigation;0.5
+1140;Enterprise;Internal Defacement;Data Backup;0.5
+1141;Enterprise;External Defacement;Data Backup;0.5
+1142;Enterprise;OS Exhaustion Flood;Filter Network Traffic;0.6
+1143;Enterprise;OS Exhaustion Flood;Endpoint Denial of Service Mitigation;0.5
+1144;Enterprise;Service Exhaustion Flood;Filter Network Traffic;0.6
+1145;Enterprise;Service Exhaustion Flood;Endpoint Denial of Service Mitigation;0.5
+1146;Enterprise;Application Exhaustion Flood;Filter Network Traffic;0.6
+1147;Enterprise;Application Exhaustion Flood;Endpoint Denial of Service Mitigation;0.5
+1148;Enterprise;Application or System Exploitation;Filter Network Traffic;0.6
+1149;Enterprise;Password Guessing;Account Use Policies;0.5
+1150;Enterprise;Password Guessing;Multi-factor Authentication;0.5
+1151;Enterprise;Password Guessing;Password Policies;0.5
+1152;Enterprise;Password Cracking;Multi-factor Authentication;0.5
+1153;Enterprise;Password Cracking;Password Policies;0.5
+1154;Enterprise;Password Spraying;Account Use Policies;0.5
+1155;Enterprise;Password Spraying;Multi-factor Authentication;0.5
+1156;Enterprise;Password Spraying;Password Policies;0.5
+1157;Enterprise;Credential Stuffing;Account Use Policies;0.5
+1158;Enterprise;Credential Stuffing;Multi-factor Authentication;0.5
+1159;Enterprise;Credential Stuffing;Password Policies;0.5
+1160;Enterprise;LSASS Memory;User Training;0.55
+1161;Enterprise;LSASS Memory;Credential Access Protection;0.5
+1162;Enterprise;LSASS Memory;Privileged Process Integrity;0.5
+1163;Enterprise;LSASS Memory;Privileged Account Management;0.5
+1164;Enterprise;LSASS Memory;Password Policies;0.5
+1165;Enterprise;LSASS Memory;Operating System Configuration;0.5
+1166;Enterprise;Security Account Manager;User Training;0.55
+1167;Enterprise;Security Account Manager;Privileged Account Management;0.5
+1168;Enterprise;Security Account Manager;Password Policies;0.5
+1169;Enterprise;Security Account Manager;Operating System Configuration;0.5
+1170;Enterprise;Proc Filesystem;Privileged Account Management;0.5
+1171;Enterprise;Proc Filesystem;Password Policies;0.5
+1172;Enterprise;/etc/passwd and /etc/shadow;Privileged Account Management;0.5
+1173;Enterprise;/etc/passwd and /etc/shadow;Password Policies;0.5
+1174;Enterprise;Archive Collected Data;Audit;0.5
+1175;Enterprise;Archive via Utility;Audit;0.5
+1176;Enterprise;Disk Wipe;Data Backup;0.5
+1177;Enterprise;Disk Content Wipe;Data Backup;0.5
+1178;Enterprise;Disk Structure Wipe;Data Backup;0.5
+1179;Enterprise;Cached Domain Credentials;User Training;0.55
+1180;Enterprise;Cached Domain Credentials;Privileged Account Management;0.5
+1181;Enterprise;Cached Domain Credentials;Password Policies;0.5
+1182;Enterprise;Cached Domain Credentials;Operating System Configuration;0.5
+1183;Enterprise;LSA Secrets;User Training;0.55
+1184;Enterprise;LSA Secrets;Password Policies;0.5
+1185;Enterprise;LSA Secrets;Privileged Account Management;0.5
+1186;Enterprise;NTDS;User Training;0.55
+1187;Enterprise;NTDS;Privileged Account Management;0.5
+1188;Enterprise;NTDS;Password Policies;0.5
+1189;Enterprise;NTDS;Encrypt Sensitive Information;0.5
+1190;Enterprise;Dynamic-link Library Injection;Behavior Prevention on Endpoint;0.5
+1191;Enterprise;Portable Executable Injection;Behavior Prevention on Endpoint;0.5
+1192;Enterprise;Impair Defenses;Restrict File and Directory Permissions;0.5
+1193;Enterprise;Impair Defenses;User Account Management;0.5
+1194;Enterprise;Disable or Modify Tools;User Account Management;0.5
+1195;Enterprise;Disable or Modify Tools;Restrict File and Directory Permissions;0.5
+1196;Enterprise;Disable Windows Event Logging;Restrict File and Directory Permissions;0.5
+1197;Enterprise;Disable Windows Event Logging;User Account Management;0.5
+1198;Enterprise;Process Hollowing;Behavior Prevention on Endpoint;0.5
+1199;Enterprise;Disable or Modify System Firewall;User Account Management;0.5
+1200;Enterprise;Disable or Modify System Firewall;Restrict File and Directory Permissions;0.5
+1201;Enterprise;Install Root Certificate;Software Configuration;0.45
+1202;Enterprise;Install Root Certificate;Operating System Configuration;0.5
+1203;Enterprise;Thread Execution Hijacking;Behavior Prevention on Endpoint;0.5
+1204;Enterprise;Asynchronous Procedure Call;Behavior Prevention on Endpoint;0.5
+1205;Enterprise;Thread Local Storage;Behavior Prevention on Endpoint;0.5
+1206;Enterprise;Ptrace System Calls;Privileged Account Management;0.5
+1207;Enterprise;Ptrace System Calls;Behavior Prevention on Endpoint;0.5
+1208;Enterprise;Proc Memory;Restrict File and Directory Permissions;0.5
+1209;Enterprise;Proc Memory;Behavior Prevention on Endpoint;0.5
+1210;Enterprise;Extra Window Memory Injection;Behavior Prevention on Endpoint;0.5
+1211;Enterprise;Process Doppelgänging;Behavior Prevention on Endpoint;0.5
+1212;Enterprise;Compromise Client Software Binary;Code Signing;0.5
+1213;Enterprise;LLMNR/NBT-NS Poisoning and SMB Relay;Filter Network Traffic;0.6
+1214;Enterprise;LLMNR/NBT-NS Poisoning and SMB Relay;Disable or Remove Feature or Program;0.5
+1215;Enterprise;SSH Hijacking;Restrict File and Directory Permissions;0.5
+1216;Enterprise;SSH Hijacking;Privileged Account Management;0.5
+1217;Enterprise;SSH Hijacking;Password Policies;0.5
+1218;Enterprise;SSH Hijacking;Disable or Remove Feature or Program;0.5
+1219;Enterprise;RDP Hijacking;Disable or Remove Feature or Program;0.5
+1220;Enterprise;RDP Hijacking;Limit Access to Resource Over Network;0.5
+1221;Enterprise;RDP Hijacking;Audit;0.5
+1222;Enterprise;RDP Hijacking;User Account Management;0.5
+1223;Enterprise;RDP Hijacking;Privileged Account Management;0.5
+1224;Enterprise;RDP Hijacking;Operating System Configuration;0.5
+1225;Enterprise;RDP Hijacking;Network Segmentation;0.4
+1226;Enterprise;Remote Service Session Hijacking;User Account Management;0.5
+1227;Enterprise;Remote Service Session Hijacking;Privileged Account Management;0.5
+1228;Enterprise;Remote Service Session Hijacking;Network Segmentation;0.4
+1229;Enterprise;Remote Service Session Hijacking;Disable or Remove Feature or Program;0.5
+1230;Enterprise;Golden Ticket;Active Directory Configuration;0.4
+1231;Enterprise;Golden Ticket;Privileged Account Management;0.5
+1232;Enterprise;Silver Ticket;Encrypt Sensitive Information;0.5
+1233;Enterprise;Silver Ticket;Password Policies;0.5
+1234;Enterprise;Silver Ticket;Privileged Account Management;0.5
+1235;Enterprise;Kerberoasting;Privileged Account Management;0.5
+1236;Enterprise;Kerberoasting;Encrypt Sensitive Information;0.5
+1237;Enterprise;Kerberoasting;Password Policies;0.5
+1238;Enterprise;Steal or Forge Kerberos Tickets;Password Policies;0.5
+1239;Enterprise;Steal or Forge Kerberos Tickets;Encrypt Sensitive Information;0.5
+1240;Enterprise;Steal or Forge Kerberos Tickets;Privileged Account Management;0.5
+1241;Enterprise;Steal or Forge Kerberos Tickets;Active Directory Configuration;0.4
+1242;Enterprise;Data Manipulation;Restrict File and Directory Permissions;0.5
+1243;Enterprise;Data Manipulation;Remote Data Storage;0.5
+1244;Enterprise;Data Manipulation;Network Segmentation;0.4
+1245;Enterprise;Data Manipulation;Encrypt Sensitive Information;0.5
+1246;Enterprise;Stored Data Manipulation;Restrict File and Directory Permissions;0.5
+1247;Enterprise;Stored Data Manipulation;Remote Data Storage;0.5
+1248;Enterprise;Stored Data Manipulation;Encrypt Sensitive Information;0.5
+1249;Enterprise;Transmitted Data Manipulation;Encrypt Sensitive Information;0.5
+1250;Enterprise;Runtime Data Manipulation;Restrict File and Directory Permissions;0.5
+1251;Enterprise;Runtime Data Manipulation;Network Segmentation;0.4
+1252;Enterprise;Phishing;Antivirus/Antimalware;0.5
+1253;Enterprise;Phishing;Network Intrusion Prevention;0.4
+1254;Enterprise;Phishing;Restrict Web-Based Content;0.65
+1255;Enterprise;Phishing;User Training;0.55
+1256;Enterprise;Spearphishing Attachment;User Training;0.55
+1257;Enterprise;Spearphishing Attachment;Restrict Web-Based Content;0.65
+1258;Enterprise;Spearphishing Attachment;Antivirus/Antimalware;0.5
+1259;Enterprise;Spearphishing Attachment;Network Intrusion Prevention;0.4
+1260;Enterprise;Spearphishing Link;User Training;0.55
+1261;Enterprise;Spearphishing Link;Restrict Web-Based Content;0.65
+1262;Enterprise;Spearphishing via Service;User Training;0.55
+1263;Enterprise;Spearphishing via Service;Restrict Web-Based Content;0.65
+1264;Enterprise;Spearphishing via Service;Antivirus/Antimalware;0.5
+1265;Enterprise;Direct Network Flood;Filter Network Traffic;0.6
+1266;Enterprise;Reflection Amplification;Filter Network Traffic;0.6
+1267;Enterprise;Exfiltration Over Web Service;Restrict Web-Based Content;0.65
+1268;Enterprise;Inter-Process Communication;Privileged Account Management;0.5
+1269;Enterprise;Inter-Process Communication;Software Configuration;0.45
+1270;Enterprise;Inter-Process Communication;Disable or Remove Feature or Program;0.5
+1271;Enterprise;Inter-Process Communication;Application Isolation and Sandboxing;0.5
+1272;Enterprise;Inter-Process Communication;Behavior Prevention on Endpoint;0.5
+1273;Enterprise;Dynamic Data Exchange;Software Configuration;0.45
+1274;Enterprise;Dynamic Data Exchange;Application Isolation and Sandboxing;0.5
+1275;Enterprise;Dynamic Data Exchange;Disable or Remove Feature or Program;0.5
+1276;Enterprise;Dynamic Data Exchange;Behavior Prevention on Endpoint;0.5
+1277;Enterprise;Component Object Model;Application Isolation and Sandboxing;0.5
+1278;Enterprise;Component Object Model;Privileged Account Management;0.5
+1279;Enterprise;Command and Scripting Interpreter;Code Signing;0.5
+1280;Enterprise;Command and Scripting Interpreter;Privileged Account Management;0.5
+1281;Enterprise;Command and Scripting Interpreter;Disable or Remove Feature or Program;0.5
+1282;Enterprise;PowerShell;Code Signing;0.5
+1283;Enterprise;PowerShell;Privileged Account Management;0.5
+1284;Enterprise;PowerShell;Disable or Remove Feature or Program;0.5
+1285;Enterprise;AppleScript;Execution Prevention;0.5
+1286;Enterprise;AppleScript;Code Signing;0.5
+1287;Enterprise;Windows Command Shell;Execution Prevention;0.5
+1288;Enterprise;Unix Shell;Execution Prevention;0.5
+1289;Enterprise;Visual Basic;Execution Prevention;0.5
+1290;Enterprise;Visual Basic;Disable or Remove Feature or Program;0.5
+1291;Enterprise;Python;Limit Software Installation;0.6
+1292;Enterprise;Python;Execution Prevention;0.5
+1293;Enterprise;Python;Audit;0.5
+1294;Enterprise;Exfiltration to Code Repository;Restrict Web-Based Content;0.65
+1295;Enterprise;Exfiltration to Cloud Storage;Restrict Web-Based Content;0.65
+1296;Enterprise;Adversary-in-the-Middle;Disable or Remove Feature or Program;0.5
+1297;Enterprise;Adversary-in-the-Middle;Filter Network Traffic;0.6
+1298;Enterprise;Exfiltration Over Bluetooth;Operating System Configuration;0.5
+1299;Enterprise;Exfiltration Over Bluetooth;Disable or Remove Feature or Program;0.5
+1300;Enterprise;Domain Generation Algorithms;Restrict Web-Based Content;0.65
+1301;Enterprise;Domain Generation Algorithms;Network Intrusion Prevention;0.4
+1302;Enterprise;Domain Generation Algorithms;Domain Generation Algorithms Mitigation;0.5
+1303;Enterprise;System Services;User Account Management;0.5
+1304;Enterprise;System Services;Restrict File and Directory Permissions;0.5
+1305;Enterprise;System Services;Privileged Account Management;0.5
+1306;Enterprise;Launchctl;User Account Management;0.5
+1307;Enterprise;Service Execution;Restrict File and Directory Permissions;0.5
+1308;Enterprise;Service Execution;Privileged Account Management;0.5
+1309;Enterprise;Exfiltration over USB;Disable or Remove Feature or Program;0.5
+1310;Enterprise;Compromise Software Dependencies and Development Tools;Update Software;0.5
+1311;Enterprise;Compromise Software Dependencies and Development Tools;Vulnerability Scanning;0.5
+1312;Enterprise;Compromise Software Supply Chain;Update Software;0.5
+1313;Enterprise;Compromise Software Supply Chain;Vulnerability Scanning;0.5
+1314;Enterprise;Compromise Hardware Supply Chain;Boot Integrity;0.5
+1315;Enterprise;Malicious Link;Network Intrusion Prevention;0.4
+1316;Enterprise;Malicious Link;Restrict Web-Based Content;0.65
+1317;Enterprise;Malicious Link;User Training;0.55
+1318;Enterprise;Malicious File;Execution Prevention;0.5
+1319;Enterprise;Malicious File;User Training;0.55
+1320;Enterprise;Lateral Tool Transfer;Network Intrusion Prevention;0.4
+1321;Enterprise;Dynamic Resolution;Network Intrusion Prevention;0.4
+1322;Enterprise;Dynamic Resolution;Restrict Web-Based Content;0.65
+1323;Enterprise;Services File Permissions Weakness;Audit;0.5
+1324;Enterprise;Services File Permissions Weakness;User Account Management;0.5
+1325;Enterprise;Services File Permissions Weakness;User Account Control;0.5
+1326;Enterprise;Executable Installer File Permissions Weakness;User Account Management;0.5
+1327;Enterprise;Executable Installer File Permissions Weakness;User Account Control;0.5
+1328;Enterprise;Executable Installer File Permissions Weakness;Audit;0.5
+1329;Enterprise;Services Registry Permissions Weakness;Restrict Registry Permissions;0.5
+1330;Enterprise;Path Interception by Unquoted Path;Restrict File and Directory Permissions;0.5
+1331;Enterprise;Path Interception by Unquoted Path;Audit;0.5
+1332;Enterprise;Path Interception by Unquoted Path;Execution Prevention;0.5
+1333;Enterprise;Path Interception by PATH Environment Variable;Restrict File and Directory Permissions;0.5
+1334;Enterprise;Path Interception by PATH Environment Variable;Execution Prevention;0.5
+1335;Enterprise;Path Interception by PATH Environment Variable;Audit;0.5
+1336;Enterprise;Path Interception by Search Order Hijacking;Restrict File and Directory Permissions;0.5
+1337;Enterprise;Path Interception by Search Order Hijacking;Execution Prevention;0.5
+1338;Enterprise;Path Interception by Search Order Hijacking;Audit;0.5
+1339;Enterprise;DLL Search Order Hijacking;Restrict Library Loading;0.5
+1340;Enterprise;DLL Search Order Hijacking;Execution Prevention;0.5
+1341;Enterprise;DLL Search Order Hijacking;Audit;0.5
+1342;Enterprise;DLL Side-Loading;Update Software;0.5
+1343;Enterprise;Local Account;Operating System Configuration;0.5
+1344;Enterprise;Domain Account;Operating System Configuration;0.5
+1345;Enterprise;Hidden Users;Operating System Configuration;0.5
+1346;Enterprise;Domain Accounts;Multi-factor Authentication;0.5
+1347;Enterprise;Domain Accounts;Privileged Account Management;0.5
+1348;Enterprise;Local Accounts;Password Policies;0.5
+1349;Enterprise;Local Accounts;Privileged Account Management;0.5
+1350;Enterprise;Hidden Window;Execution Prevention;0.5
+1351;Enterprise;NTFS File Attributes;Restrict File and Directory Permissions;0.5
+1352;Enterprise;Cloud Accounts;Password Policies;0.5
+1353;Enterprise;Cloud Accounts;Privileged Account Management;0.5
+1354;Enterprise;Default Accounts;Password Policies;0.5
+1355;Enterprise;Non-Standard Port;Network Segmentation;0.4
+1356;Enterprise;Non-Standard Port;Network Intrusion Prevention;0.4
+1357;Enterprise;Dead Drop Resolver;Network Intrusion Prevention;0.4
+1358;Enterprise;Dead Drop Resolver;Restrict Web-Based Content;0.65
+1359;Enterprise;Bidirectional Communication;Network Intrusion Prevention;0.4
+1360;Enterprise;Bidirectional Communication;Restrict Web-Based Content;0.65
+1361;Enterprise;One-Way Communication;Network Intrusion Prevention;0.4
+1362;Enterprise;One-Way Communication;Restrict Web-Based Content;0.65
+1363;Enterprise;Internal Proxy;Network Intrusion Prevention;0.4
+1364;Enterprise;External Proxy;Network Intrusion Prevention;0.4
+1365;Enterprise;Proxy;Filter Network Traffic;0.6
+1366;Enterprise;Proxy;SSL/TLS Inspection;0.3
+1367;Enterprise;Multi-hop Proxy;Filter Network Traffic;0.6
+1368;Enterprise;Domain Fronting;SSL/TLS Inspection;0.3
+1369;Enterprise;Standard Encoding;Network Intrusion Prevention;0.4
+1370;Enterprise;Non-Standard Encoding;Network Intrusion Prevention;0.4
+1371;Enterprise;Junk Data;Network Intrusion Prevention;0.4
+1372;Enterprise;Steganography;Network Intrusion Prevention;0.4
+1373;Enterprise;Protocol Impersonation;Network Intrusion Prevention;0.4
+1374;Enterprise;VDSO Hijacking;Behavior Prevention on Endpoint;0.5
+1375;Enterprise;Exfiltration Over Symmetric Encrypted Non-C2 Protocol;Network Segmentation;0.4
+1376;Enterprise;Exfiltration Over Symmetric Encrypted Non-C2 Protocol;Network Intrusion Prevention;0.4
+1377;Enterprise;Exfiltration Over Symmetric Encrypted Non-C2 Protocol;Filter Network Traffic;0.6
+1378;Enterprise;Exfiltration Over Asymmetric Encrypted Non-C2 Protocol;Network Segmentation;0.4
+1379;Enterprise;Exfiltration Over Asymmetric Encrypted Non-C2 Protocol;Network Intrusion Prevention;0.4
+1380;Enterprise;Exfiltration Over Asymmetric Encrypted Non-C2 Protocol;Filter Network Traffic;0.6
+1381;Enterprise;Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol;Network Segmentation;0.4
+1382;Enterprise;Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol;Network Intrusion Prevention;0.4
+1383;Enterprise;Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol;Filter Network Traffic;0.6
+1384;Enterprise;Protocol Tunneling;Network Intrusion Prevention;0.4
+1385;Enterprise;Protocol Tunneling;Filter Network Traffic;0.6
+1386;Enterprise;Web Protocols;Network Intrusion Prevention;0.4
+1387;Enterprise;File Transfer Protocols;Network Intrusion Prevention;0.4
+1388;Enterprise;Mail Protocols;Network Intrusion Prevention;0.4
+1389;Enterprise;DNS;Network Intrusion Prevention;0.4
+1390;Enterprise;DNS;Filter Network Traffic;0.6
+1391;Enterprise;Modify Authentication Process;Privileged Process Integrity;0.5
+1392;Enterprise;Modify Authentication Process;Privileged Account Management;0.5
+1393;Enterprise;Modify Authentication Process;Multi-factor Authentication;0.5
+1394;Enterprise;Modify Authentication Process;Operating System Configuration;0.5
+1395;Enterprise;Domain Controller Authentication;Multi-factor Authentication;0.5
+1396;Enterprise;Domain Controller Authentication;Privileged Account Management;0.5
+1397;Enterprise;Domain Controller Authentication;Privileged Process Integrity;0.5
+1398;Enterprise;Password Filter DLL;Operating System Configuration;0.5
+1399;Enterprise;Dylib Hijacking;Restrict File and Directory Permissions;0.5
+1400;Enterprise;Encrypted Channel;SSL/TLS Inspection;0.3
+1401;Enterprise;Encrypted Channel;Network Intrusion Prevention;0.4
+1402;Enterprise;Symmetric Cryptography;Network Intrusion Prevention;0.4
+1403;Enterprise;Asymmetric Cryptography;SSL/TLS Inspection;0.3
+1404;Enterprise;Asymmetric Cryptography;Network Intrusion Prevention;0.4
+1405;Enterprise;Indicator Blocking;Software Configuration;0.45
+1406;Enterprise;Indicator Blocking;User Account Management;0.5
+1407;Enterprise;Indicator Blocking;Restrict File and Directory Permissions;0.5
+1408;Enterprise;Plist Modification;User Training;0.55
+1409;Enterprise;Confluence;User Training;0.55
+1410;Enterprise;Sharepoint;Audit;0.5
+1411;Enterprise;Sharepoint;User Account Management;0.5
+1412;Enterprise;Sharepoint;User Training;0.55
+1413;Enterprise;Web Portal Capture;Privileged Account Management;0.5
+1414;Enterprise;Boot or Logon Initialization Scripts;Restrict Registry Permissions;0.5
+1415;Enterprise;Logon Script (Windows);Restrict Registry Permissions;0.5
+1416;Enterprise;RC Scripts;Restrict File and Directory Permissions;0.5
+1417;Enterprise;OS Credential Dumping;Encrypt Sensitive Information;0.5
+1418;Enterprise;Unsecured Credentials;User Training;0.55
+1419;Enterprise;Unsecured Credentials;Filter Network Traffic;0.6
+1420;Enterprise;Unsecured Credentials;Privileged Account Management;0.5
+1421;Enterprise;Unsecured Credentials;Password Policies;0.5
+1422;Enterprise;Unsecured Credentials;Operating System Configuration;0.5
+1423;Enterprise;Unsecured Credentials;Encrypt Sensitive Information;0.5
+1424;Enterprise;Create or Modify System Process;User Account Management;0.5
+1425;Enterprise;Create or Modify System Process;Audit;0.5
+1426;Enterprise;Create or Modify System Process;Limit Software Installation;0.6
+1427;Enterprise;Create or Modify System Process;Restrict File and Directory Permissions;0.5
+1428;Enterprise;Hijack Execution Flow;Restrict Library Loading;0.5
+1429;Enterprise;Hijack Execution Flow;Execution Prevention;0.5
+1430;Enterprise;Hijack Execution Flow;Audit;0.5
+1431;Enterprise;Hijack Execution Flow;Update Software;0.5
+1432;Enterprise;Hijack Execution Flow;Restrict File and Directory Permissions;0.5
+1433;Enterprise;Dynamic Linker Hijacking;Execution Prevention;0.5
+1434;Enterprise;Hijack Execution Flow;User Account Control;0.5
+1435;Enterprise;Hijack Execution Flow;User Account Management;0.5
+1436;Enterprise;Hijack Execution Flow;Restrict Registry Permissions;0.5
+1437;Enterprise;Process Injection;Privileged Account Management;0.5
+1438;Enterprise;Abuse Elevation Control Mechanism;User Account Control;0.5
+1439;Enterprise;Abuse Elevation Control Mechanism;Audit;0.5
+1440;Enterprise;Abuse Elevation Control Mechanism;Restrict File and Directory Permissions;0.5
+1441;Enterprise;Abuse Elevation Control Mechanism;Execution Prevention;0.5
+1442;Enterprise;Abuse Elevation Control Mechanism;Privileged Account Management;0.5
+1443;Enterprise;Abuse Elevation Control Mechanism;Operating System Configuration;0.5
+1444;Enterprise;Subvert Trust Controls;Execution Prevention;0.5
+1445;Enterprise;Subvert Trust Controls;Operating System Configuration;0.5
+1446;Enterprise;Subvert Trust Controls;Software Configuration;0.45
+1447;Enterprise;Subvert Trust Controls;Restrict Registry Permissions;0.5
+1448;Enterprise;Unsecured Credentials;Update Software;0.5
+1449;Enterprise;Group Policy Preferences;Update Software;0.5
+1450;Enterprise;MSBuild;Disable or Remove Feature or Program;0.5
+1451;Enterprise;Adversary-in-the-Middle;Limit Access to Resource Over Network;0.5
+1452;Enterprise;Adversary-in-the-Middle;Network Intrusion Prevention;0.4
+1453;Enterprise;Adversary-in-the-Middle;Network Segmentation;0.4
+1454;Enterprise;LLMNR/NBT-NS Poisoning and SMB Relay;Network Intrusion Prevention;0.4
+1455;Enterprise;LLMNR/NBT-NS Poisoning and SMB Relay;Network Segmentation;0.4
+1456;Enterprise;Signed Binary Proxy Execution;Exploit Protection;0.5
+1457;Enterprise;Signed Binary Proxy Execution;Privileged Account Management;0.5
+1458;Enterprise;Signed Binary Proxy Execution;Execution Prevention;0.5
+1459;Enterprise;Signed Binary Proxy Execution;Disable or Remove Feature or Program;0.5
+1460;Enterprise;Brute Force;User Account Management;0.5
+1461;Enterprise;Credential Stuffing;User Account Management;0.5
+1462;Enterprise;Impair Defenses;Restrict Registry Permissions;0.5
+1463;Enterprise;Disable or Modify Tools;Restrict Registry Permissions;0.5
+1464;Enterprise;Disable Windows Event Logging;Restrict Registry Permissions;0.5
+1465;Enterprise;Disable or Modify System Firewall;Restrict Registry Permissions;0.5
+1466;Enterprise;Modify Cloud Compute Infrastructure;Audit;0.5
+1467;Enterprise;Exfiltration Over Physical Medium;Limit Hardware Installation;0.6
+1468;Enterprise;Exfiltration over USB;Limit Hardware Installation;0.6
+1469;Enterprise;LSASS Driver;Privileged Process Integrity;0.5
+1470;Enterprise;Network Share Discovery;Operating System Configuration;0.5
+1471;Enterprise;SMB/Windows Admin Shares;Limit Access to Resource Over Network;0.5
+1472;Enterprise;Cached Domain Credentials;Active Directory Configuration;0.4
+1473;Enterprise;SMB/Windows Admin Shares;Filter Network Traffic;0.6
+1474;Enterprise;Lateral Tool Transfer;Filter Network Traffic;0.6
+1475;Enterprise;Modify Cloud Compute Infrastructure;User Account Management;0.5
+1476;Enterprise;Create Snapshot;User Account Management;0.5
+1477;Enterprise;Create Snapshot;Audit;0.5
+1478;Enterprise;Create Cloud Instance;Audit;0.5
+1479;Enterprise;Delete Cloud Instance;Audit;0.5
+1480;Enterprise;Delete Cloud Instance;User Account Management;0.5
+1481;Enterprise;Group Policy Preferences;Active Directory Configuration;0.4
+1482;Enterprise;Visual Basic;Antivirus/Antimalware;0.5
+1483;Enterprise;Command and Scripting Interpreter;Antivirus/Antimalware;0.5
+1484;Enterprise;PowerShell;Antivirus/Antimalware;0.5
+1485;Enterprise;Python;Antivirus/Antimalware;0.5
+1486;Enterprise;JavaScript;Restrict Web-Based Content;0.65
+1487;Enterprise;JavaScript;Execution Prevention;0.5
+1488;Enterprise;JavaScript;Disable or Remove Feature or Program;0.5
+1489;Enterprise;Visual Basic;Restrict Web-Based Content;0.65
+1490;Enterprise;Command and Scripting Interpreter;Restrict Web-Based Content;0.65
+1491;Enterprise;Environmental Keying;Do Not Mitigate;0.5
+1492;Enterprise;SSH Authorized Keys;Restrict File and Directory Permissions;0.5
+1493;Enterprise;SSH Authorized Keys;Disable or Remove Feature or Program;0.5
+1494;Enterprise;Disable or Modify Cloud Firewall;User Account Management;0.5
+1495;Enterprise;Disable or Modify Cloud Firewall;Audit;0.5
+1496;Enterprise;COR_PROFILER;User Account Management;0.5
+1497;Enterprise;COR_PROFILER;Execution Prevention;0.5
+1498;Enterprise;Bypass User Account Control;Update Software;0.5
+1499;Enterprise;COR_PROFILER;Restrict Registry Permissions;0.5
+1500;Enterprise;Pluggable Authentication Modules;Privileged Account Management;0.5
+1501;Enterprise;Pluggable Authentication Modules;Multi-factor Authentication;0.5
+1502;Enterprise;Run Virtual Instance;Execution Prevention;0.5
+1503;Enterprise;Run Virtual Instance;Disable or Remove Feature or Program;0.5
+1504;Enterprise;Port Knocking;Filter Network Traffic;0.6
+1505;Enterprise;Cloud Accounts;Multi-factor Authentication;0.5
+1506;Enterprise;Verclsid;Filter Network Traffic;0.6
+1507;Enterprise;Verclsid;Execution Prevention;0.5
+1508;Enterprise;Verclsid;Disable or Remove Feature or Program;0.5
+1509;Enterprise;Cloud Accounts;User Account Management;0.5
+1510;Enterprise;Cloud Account;Audit;0.5
+1511;Enterprise;Cloud Account;User Account Management;0.5
+1512;Enterprise;Cloud Infrastructure Discovery;User Account Management;0.5
+1513;Enterprise;AS-REP Roasting;Password Policies;0.5
+1514;Enterprise;AS-REP Roasting;Audit;0.5
+1515;Enterprise;AS-REP Roasting;Encrypt Sensitive Information;0.5
+1516;Enterprise;VBA Stomping;Disable or Remove Feature or Program;0.5
+1517;Enterprise;Print Processors;User Account Management;0.5
+1518;Enterprise;Disable Cloud Logs;User Account Management;0.5
+1519;Enterprise;Systemd Timers;User Account Management;0.5
+1520;Enterprise;Systemd Timers;Restrict File and Directory Permissions;0.5
+1521;Enterprise;Systemd Timers;Privileged Account Management;0.5
+1522;Enterprise;Cloud Instance Metadata API;Disable or Remove Feature or Program;0.5
+1523;Enterprise;ARP Cache Poisoning;Filter Network Traffic;0.6
+1524;Enterprise;ARP Cache Poisoning;User Training;0.55
+1525;Enterprise;ARP Cache Poisoning;Network Intrusion Prevention;0.4
+1526;Enterprise;ARP Cache Poisoning;Encrypt Sensitive Information;0.5
+1527;Enterprise;ARP Cache Poisoning;Limit Access to Resource Over Network;0.5
+1528;Enterprise;ARP Cache Poisoning;Disable or Remove Feature or Program;0.5
+1529;Enterprise;Impair Command History Logging;Operating System Configuration;0.5
+1530;Enterprise;Impair Command History Logging;Environment Variable Permissions;0.5
+1531;Enterprise;Adversary-in-the-Middle;Encrypt Sensitive Information;0.5
+1532;Enterprise;Adversary-in-the-Middle;User Training;0.55
+1533;Enterprise;Phishing for Information;User Training;0.55
+1534;Enterprise;Spearphishing Service;User Training;0.55
+1535;Enterprise;Spearphishing Attachment;User Training;0.55
+1536;Enterprise;Spearphishing Link;User Training;0.55
+1537;Enterprise;Traffic Duplication;Encrypt Sensitive Information;0.5
+1538;Enterprise;Network Boundary Bridging;Filter Network Traffic;0.6
+1539;Enterprise;Network Boundary Bridging;Multi-factor Authentication;0.5
+1540;Enterprise;Network Boundary Bridging;Password Policies;0.5
+1541;Enterprise;Network Boundary Bridging;Privileged Account Management;0.5
+1542;Enterprise;Network Boundary Bridging;Credential Access Protection;0.5
+1543;Enterprise;Network Address Translation Traversal;Filter Network Traffic;0.6
+1544;Enterprise;Network Address Translation Traversal;Multi-factor Authentication;0.5
+1545;Enterprise;Network Address Translation Traversal;Credential Access Protection;0.5
+1546;Enterprise;Network Address Translation Traversal;Password Policies;0.5
+1547;Enterprise;Network Address Translation Traversal;Privileged Account Management;0.5
+1548;Enterprise;Network Device Authentication;Multi-factor Authentication;0.5
+1549;Enterprise;Network Device Authentication;Privileged Account Management;0.5
+1550;Enterprise;Modify System Image;Multi-factor Authentication;0.5
+1551;Enterprise;Modify System Image;Credential Access Protection;0.5
+1552;Enterprise;Modify System Image;Password Policies;0.5
+1553;Enterprise;Modify System Image;Privileged Account Management;0.5
+1554;Enterprise;Modify System Image;Boot Integrity;0.5
+1555;Enterprise;Modify System Image;Code Signing;0.5
+1556;Enterprise;Patch System Image;Multi-factor Authentication;0.5
+1557;Enterprise;Patch System Image;Credential Access Protection;0.5
+1558;Enterprise;Patch System Image;Password Policies;0.5
+1559;Enterprise;Patch System Image;Privileged Account Management;0.5
+1560;Enterprise;Patch System Image;Boot Integrity;0.5
+1561;Enterprise;Patch System Image;Code Signing;0.5
+1562;Enterprise;Downgrade System Image;Multi-factor Authentication;0.5
+1563;Enterprise;Downgrade System Image;Credential Access Protection;0.5
+1564;Enterprise;Downgrade System Image;Password Policies;0.5
+1565;Enterprise;Downgrade System Image;Privileged Account Management;0.5
+1566;Enterprise;Downgrade System Image;Boot Integrity;0.5
+1567;Enterprise;Downgrade System Image;Code Signing;0.5
+1568;Enterprise;Data from Configuration Repository;Network Intrusion Prevention;0.4
+1569;Enterprise;Data from Configuration Repository;Encrypt Sensitive Information;0.5
+1570;Enterprise;Data from Configuration Repository;Software Configuration;0.45
+1571;Enterprise;Data from Configuration Repository;Update Software;0.5
+1572;Enterprise;Data from Configuration Repository;Filter Network Traffic;0.6
+1573;Enterprise;Data from Configuration Repository;Network Segmentation;0.4
+1574;Enterprise;SNMP (MIB Dump);Network Intrusion Prevention;0.4
+1575;Enterprise;SNMP (MIB Dump);Encrypt Sensitive Information;0.5
+1576;Enterprise;SNMP (MIB Dump);Software Configuration;0.45
+1577;Enterprise;SNMP (MIB Dump);Update Software;0.5
+1578;Enterprise;SNMP (MIB Dump);Filter Network Traffic;0.6
+1579;Enterprise;SNMP (MIB Dump);Network Segmentation;0.4
+1580;Enterprise;Gather Victim Host Information;Pre-compromise;0.5
+1581;Enterprise;Client Configurations;Pre-compromise;0.5
+1582;Enterprise;Software;Pre-compromise;0.5
+1583;Enterprise;Credentials;Pre-compromise;0.5
+1584;Enterprise;Active Scanning;Pre-compromise;0.5
+1585;Enterprise;Scanning IP Blocks;Pre-compromise;0.5
+1586;Enterprise;Vulnerability Scanning;Pre-compromise;0.5
+1587;Enterprise;Firmware;Pre-compromise;0.5
+1588;Enterprise;Hardware;Pre-compromise;0.5
+1589;Enterprise;Gather Victim Identity Information;Pre-compromise;0.5
+1590;Enterprise;Email Addresses;Pre-compromise;0.5
+1591;Enterprise;Employee Names;Pre-compromise;0.5
+1592;Enterprise;Gather Victim Network Information;Pre-compromise;0.5
+1593;Enterprise;DNS;Pre-compromise;0.5
+1594;Enterprise;Domain Properties;Pre-compromise;0.5
+1595;Enterprise;IP Addresses;Pre-compromise;0.5
+1596;Enterprise;Network Security Appliances;Pre-compromise;0.5
+1597;Enterprise;Network Topology;Pre-compromise;0.5
+1598;Enterprise;Network Trust Dependencies;Pre-compromise;0.5
+1599;Enterprise;Gather Victim Org Information;Pre-compromise;0.5
+1600;Enterprise;Business Relationships;Pre-compromise;0.5
+1601;Enterprise;Determine Physical Locations;Pre-compromise;0.5
+1602;Enterprise;Identify Business Tempo;Pre-compromise;0.5
+1603;Enterprise;Identify Roles;Pre-compromise;0.5
+1604;Enterprise;Search Closed Sources;Pre-compromise;0.5
+1605;Enterprise;Purchase Technical Data;Pre-compromise;0.5
+1606;Enterprise;Threat Intel Vendors;Pre-compromise;0.5
+1607;Enterprise;Search Open Technical Databases;Pre-compromise;0.5
+1608;Enterprise;CDNs;Pre-compromise;0.5
+1609;Enterprise;Digital Certificates;Pre-compromise;0.5
+1610;Enterprise;DNS/Passive DNS;Pre-compromise;0.5
+1611;Enterprise;Scan Databases;Pre-compromise;0.5
+1612;Enterprise;WHOIS;Pre-compromise;0.5
+1613;Enterprise;Search Open Websites/Domains;Pre-compromise;0.5
+1614;Enterprise;Search Engines;Pre-compromise;0.5
+1615;Enterprise;Social Media;Pre-compromise;0.5
+1616;Enterprise;Search Victim-Owned Websites;Pre-compromise;0.5
+1617;Enterprise;Acquire Infrastructure;Pre-compromise;0.5
+1618;Enterprise;Botnet;Pre-compromise;0.5
+1619;Enterprise;DNS Server;Pre-compromise;0.5
+1620;Enterprise;Domains;Pre-compromise;0.5
+1621;Enterprise;Server;Pre-compromise;0.5
+1622;Enterprise;Virtual Private Server;Pre-compromise;0.5
+1623;Enterprise;Web Services;Pre-compromise;0.5
+1624;Enterprise;Establish Accounts;Pre-compromise;0.5
+1625;Enterprise;Email Accounts;Pre-compromise;0.5
+1626;Enterprise;Social Media Accounts;Pre-compromise;0.5
+1627;Enterprise;Email Accounts;Pre-compromise;0.5
+1628;Enterprise;Social Media Accounts;Pre-compromise;0.5
+1629;Enterprise;Compromise Infrastructure;Pre-compromise;0.5
+1630;Enterprise;Botnet;Pre-compromise;0.5
+1631;Enterprise;DNS Server;Pre-compromise;0.5
+1632;Enterprise;Domains;Pre-compromise;0.5
+1633;Enterprise;Server;Pre-compromise;0.5
+1634;Enterprise;Virtual Private Server;Pre-compromise;0.5
+1635;Enterprise;Web Services;Pre-compromise;0.5
+1636;Enterprise;Develop Capabilities;Pre-compromise;0.5
+1637;Enterprise;Code Signing Certificates;Pre-compromise;0.5
+1638;Enterprise;Digital Certificates;Pre-compromise;0.5
+1639;Enterprise;Exploits;Pre-compromise;0.5
+1640;Enterprise;Malware;Pre-compromise;0.5
+1641;Enterprise;Obtain Capabilities;Pre-compromise;0.5
+1642;Enterprise;Code Signing Certificates;Pre-compromise;0.5
+1643;Enterprise;Digital Certificates;Pre-compromise;0.5
+1644;Enterprise;Malware;Pre-compromise;0.5
+1645;Enterprise;Exploits;Pre-compromise;0.5
+1646;Enterprise;Tool;Pre-compromise;0.5
+1647;Enterprise;Vulnerabilities;Pre-compromise;0.5
+1648;Enterprise;Network Device Configuration Dump;Network Intrusion Prevention;0.4
+1649;Enterprise;Network Device Configuration Dump;Encrypt Sensitive Information;0.5
+1650;Enterprise;Network Device Configuration Dump;Update Software;0.5
+1651;Enterprise;Network Device Configuration Dump;Filter Network Traffic;0.6
+1652;Enterprise;Network Device Configuration Dump;Software Configuration;0.45
+1653;Enterprise;Network Device Configuration Dump;Network Segmentation;0.4
+1654;Enterprise;TFTP Boot;Network Intrusion Prevention;0.4
+1655;Enterprise;TFTP Boot;Operating System Configuration;0.5
+1656;Enterprise;TFTP Boot;Limit Access to Resource Over Network;0.5
+1657;Enterprise;TFTP Boot;Audit;0.5
+1658;Enterprise;TFTP Boot;Boot Integrity;0.5
+1659;Enterprise;TFTP Boot;Privileged Account Management;0.5
+1660;Enterprise;ROMMONkit;Boot Integrity;0.5
+1661;Enterprise;ROMMONkit;Network Intrusion Prevention;0.4
+1662;Enterprise;ROMMONkit;Audit;0.5
+1663;Enterprise;Network Device CLI;User Account Management;0.5
+1664;Enterprise;Network Device CLI;Privileged Account Management;0.5
+1665;Enterprise;Network Device CLI;Execution Prevention;0.5
+1666;Enterprise;Compromise Accounts;Pre-compromise;0.5
+1667;Enterprise;Windows Credential Manager;Disable or Remove Feature or Program;0.5
+1668;Enterprise;Msiexec;Disable or Remove Feature or Program;0.5
+1669;Enterprise;Forge Web Credentials;Audit;0.5
+1670;Enterprise;Forge Web Credentials;Software Configuration;0.45
+1671;Enterprise;Web Cookies;Audit;0.5
+1672;Enterprise;Web Cookies;Software Configuration;0.45
+1673;Enterprise;SAML Tokens;Privileged Account Management;0.5
+1674;Enterprise;SAML Tokens;User Account Management;0.5
+1675;Enterprise;SAML Tokens;Audit;0.5
+1676;Enterprise;Forge Web Credentials;Privileged Account Management;0.5
+1677;Enterprise;Forge Web Credentials;User Account Management;0.5
+1678;Enterprise;Group Policy Modification;Audit;0.5
+1679;Enterprise;Group Policy Modification;User Account Management;0.5
+1680;Enterprise;Domain Trust Modification;Privileged Account Management;0.5
+1681;Enterprise;Domain Policy Modification;Privileged Account Management;0.5
+1682;Enterprise;Password Managers;Password Policies;0.5
+1683;Enterprise;SAML Tokens;Active Directory Configuration;0.4
+1684;Enterprise;Traffic Signaling;Disable or Remove Feature or Program;0.5
+1685;Enterprise;Phishing for Information;Software Configuration;0.45
+1686;Enterprise;Spearphishing Attachment;Software Configuration;0.45
+1687;Enterprise;Spearphishing Link;Software Configuration;0.45
+1688;Enterprise;Phishing;Software Configuration;0.45
+1689;Enterprise;Spearphishing Attachment;Software Configuration;0.45
+1690;Enterprise;Spearphishing Link;Software Configuration;0.45
+1691;Enterprise;Mark-of-the-Web Bypass;Execution Prevention;0.5
+1692;Enterprise;Exploitation for Privilege Escalation;Execution Prevention;0.5
+1693;Enterprise;Upload Malware;Pre-compromise;0.5
+1694;Enterprise;Upload Tool;Pre-compromise;0.5
+1695;Enterprise;Dynamic Linker Hijacking;Operating System Configuration;0.5
+1696;Enterprise;Container Administration Command;Execution Prevention;0.5
+1697;Enterprise;Container Administration Command;Privileged Account Management;0.5
+1698;Enterprise;Container Administration Command;Limit Access to Resource Over Network;0.5
+1699;Enterprise;Deploy Container;Network Segmentation;0.4
+1700;Enterprise;Deploy Container;User Account Management;0.5
+1701;Enterprise;Deploy Container;Limit Access to Resource Over Network;0.5
+1702;Enterprise;Container Orchestration Job;User Account Management;0.5
+1703;Enterprise;Container Orchestration Job;Privileged Account Management;0.5
+1704;Enterprise;Malicious Image;User Training;0.55
+1705;Enterprise;Malicious Image;Network Intrusion Prevention;0.4
+1706;Enterprise;Escape to Host;Privileged Account Management;0.5
+1707;Enterprise;Escape to Host;Execution Prevention;0.5
+1708;Enterprise;Build Image on Host;Limit Access to Resource Over Network;0.5
+1709;Enterprise;Build Image on Host;Network Segmentation;0.4
+1710;Enterprise;Build Image on Host;Privileged Account Management;0.5
+1711;Enterprise;Escape to Host;Application Isolation and Sandboxing;0.5
+1712;Enterprise;Build Image on Host;Audit;0.5
+1713;Enterprise;Malicious Image;Audit;0.5
+1714;Enterprise;Malicious Image;Code Signing;0.5
+1715;Enterprise;Container API;Network Segmentation;0.4
+1716;Enterprise;Container API;Privileged Account Management;0.5
+1717;Enterprise;Container API;Limit Access to Resource Over Network;0.5
+1718;Enterprise;Container and Resource Discovery;User Account Management;0.5
+1719;Enterprise;Container and Resource Discovery;Network Segmentation;0.4
+1720;Enterprise;Container and Resource Discovery;Limit Access to Resource Over Network;0.5
+1721;Enterprise;DLL Side-Loading;Application Developer Guidance;0.25
+1722;Enterprise;Hijack Execution Flow;Application Developer Guidance;0.25
+1723;Enterprise;Browser Extensions;Update Software;0.5
+1724;Enterprise;Password Managers;Software Configuration;0.45
+1725;Enterprise;Password Managers;Update Software;0.5
+1726;Enterprise;Drive-by Target;Pre-compromise;0.5
+1727;Enterprise;Stage Capabilities;Pre-compromise;0.5
+1728;Enterprise;Install Digital Certificate;Pre-compromise;0.5
+1729;Enterprise;Link Target;Pre-compromise;0.5
+1730;Enterprise;Modify Authentication Process;Restrict File and Directory Permissions;0.5
+1731;Enterprise;Code Signing Policy Modification;Boot Integrity;0.5
+1732;Enterprise;Code Signing Policy Modification;Restrict Registry Permissions;0.5
+1733;Enterprise;Code Signing Policy Modification;Privileged Account Management;0.5
+1734;Enterprise;Domain Accounts;User Training;0.55
+1735;Enterprise;Code Repositories;User Account Management;0.5
+1736;Enterprise;Code Repositories;User Training;0.55
+1737;Enterprise;Code Repositories;Audit;0.5
+1738;Enterprise;Valid Accounts;User Training;0.55
+1739;Enterprise;Cloud Accounts;User Training;0.55
+1740;Enterprise;PowerShell;Execution Prevention;0.5
+1741;Enterprise;IIS Components;Execution Prevention;0.5
+1742;Enterprise;Code Repositories;Multi-factor Authentication;0.5
+1743;Enterprise;Email Hiding Rules;Audit;0.5
+1744;Enterprise;Email Forwarding Rule;Disable or Remove Feature or Program;0.5
+1745;Enterprise;IIS Components;Privileged Account Management;0.5
+1746;Enterprise;IIS Components;Code Signing;0.5
+1747;Enterprise;IIS Components;Audit;0.5
+1748;Enterprise;Safe Mode Boot;Privileged Account Management;0.5
+1749;Enterprise;Safe Mode Boot;Software Configuration;0.45
+1750;Enterprise;User Execution;Behavior Prevention on Endpoint;0.5
+1751;Enterprise;Data Encrypted for Impact;Behavior Prevention on Endpoint;0.5
+1752;Enterprise;Malicious File;Behavior Prevention on Endpoint;0.5
+1753;Enterprise;OS Credential Dumping;Behavior Prevention on Endpoint;0.5
+1754;Enterprise;LSASS Memory;Behavior Prevention on Endpoint;0.5
+1755;Enterprise;Windows Management Instrumentation;Behavior Prevention on Endpoint;0.5
+1756;Enterprise;System Services;Behavior Prevention on Endpoint;0.5
+1757;Enterprise;Service Execution;Behavior Prevention on Endpoint;0.5
+1758;Enterprise;Replication Through Removable Media;Behavior Prevention on Endpoint;0.5
+1759;Enterprise;Office Application Startup;Behavior Prevention on Endpoint;0.5
+1760;Enterprise;Office Template Macros;Behavior Prevention on Endpoint;0.5
+1761;Enterprise;Outlook Forms;Behavior Prevention on Endpoint;0.5
+1762;Enterprise;Outlook Home Page;Behavior Prevention on Endpoint;0.5
+1763;Enterprise;Outlook Rules;Behavior Prevention on Endpoint;0.5
+1764;Enterprise;Add-ins;Behavior Prevention on Endpoint;0.5
+1765;Enterprise;Obfuscated Files or Information;Behavior Prevention on Endpoint;0.5
+1766;Enterprise;Command and Scripting Interpreter;Behavior Prevention on Endpoint;0.5
+1767;Enterprise;Visual Basic;Behavior Prevention on Endpoint;0.5
+1768;Enterprise;JavaScript;Behavior Prevention on Endpoint;0.5
+1769;Enterprise;Native API;Behavior Prevention on Endpoint;0.5
+1770;Enterprise;Web Shell;User Account Management;0.5
+1771;Enterprise;Web Shell;Disable or Remove Feature or Program;0.5
+1772;Enterprise;Server Software Component;User Account Management;0.5
+1773;Enterprise;Server Software Component;Disable or Remove Feature or Program;0.5
+1774;Enterprise;Launch Daemon;Audit;0.5
+1775;Enterprise;MSBuild;Execution Prevention;0.5
+1776;Enterprise;Windows Management Instrumentation;Execution Prevention;0.5
+1777;Enterprise;Exfiltration Over Physical Medium;Data Loss Prevention;0.5
+1778;Enterprise;Exfiltration over USB;Data Loss Prevention;0.5
+1779;Enterprise;Exfiltration Over Web Service;Data Loss Prevention;0.5
+1780;Enterprise;Exfiltration Over Alternative Protocol;Data Loss Prevention;0.5
+1781;Enterprise;Exfiltration Over Asymmetric Encrypted Non-C2 Protocol;Data Loss Prevention;0.5
+1782;Enterprise;Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol;Data Loss Prevention;0.5
+1783;Enterprise;Exfiltration Over C2 Channel;Data Loss Prevention;0.5
+1784;Enterprise;Double File Extension;Operating System Configuration;0.5
+1785;Enterprise;Double File Extension;User Training;0.55
+1786;Enterprise;Office Test;Behavior Prevention on Endpoint;0.5
+1787;Enterprise;Windows Management Instrumentation Event Subscription;Behavior Prevention on Endpoint;0.5
+1788;Enterprise;PubPrn;Behavior Prevention on Endpoint;0.5
+1789;Enterprise;Mavinject;Execution Prevention;0.5
+1790;Enterprise;Mavinject;Disable or Remove Feature or Program;0.5
+1791;Enterprise;MMC;Execution Prevention;0.5
+1792;Enterprise;MMC;Disable or Remove Feature or Program;0.5
+1793;Enterprise;Data from Local System;Data Loss Prevention;0.5
+1794;Enterprise;Data from Removable Media;Data Loss Prevention;0.5
+1795;Enterprise;Disable Windows Event Logging;Audit;0.5
+1796;Enterprise;Remote Services;Multi-factor Authentication;0.5
+1797;Enterprise;Cloud Storage Object Discovery;User Account Management;0.5
+1798;Enterprise;Downgrade Attack;Disable or Remove Feature or Program;0.5
+1799;Enterprise;Plist Modification;Application Developer Guidance;0.25
+1800;Enterprise;Resource Forking;Application Developer Guidance;0.25
